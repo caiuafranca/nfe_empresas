@@ -1,0 +1,118 @@
+
+C100:
+LOAD 
+     [2]                AS C100_REG
+    ,[3]                AS C100_IND_OPER	
+    ,[4]                AS C100_IND_EMIT	
+    ,[5]                AS C100_COD_PART	
+    ,[6]                AS C100_COD_MOD	
+    ,[7]                AS C100_COD_SIT	
+    ,[8]                AS C100_SER	
+    ,[9]                AS C100_NUM_DOC	
+    ,[10]               AS C100_CHV_NFE	
+    ,[11]               AS C100_DT_DOC	
+    ,[12]               AS C100_DT_E_S	
+    ,[13]               AS C100_VL_DOC	
+    ,[14]               AS C100_IND_PGTO	
+    ,[15]               AS C100_VL_DESC	
+    ,[16]               AS C100_VL_ABAT_NT	
+    ,[17]               AS C100_VL_MERC	
+    ,[18]               AS C100_IND_FRETE	
+    ,[19]               AS C100_VL_FRT	
+    ,[20]               AS C100_VL_SEG	
+    ,[21]               AS C100_VL_OUT_DA	
+    ,[22]               AS C100_VL_BC_ICMS	
+    ,[23]               AS C100_VL_ICMS	
+    ,[24]               AS C100_VL_BC_ICMS_ST	
+    ,[25]               AS C100_VL_ICMS_ST	
+    ,[26]               AS C100_VL_IPI	
+    ,[27]               AS C100_VL_PIS	
+    ,[28]               AS C100_VL_COFINS	
+    ,[29]               AS C100_VL_PIS_ST	
+    ,[30]               AS C100_VL_COFINS_ST
+    ,NF
+FROM
+dadosC100.csv
+(txt, utf8, embedded labels, delimiter is ';', msq);
+
+left Join (C100)
+C170:
+LOAD 
+     [2]                AS C170_REG
+    ,[3]                as C170_NUM_ITEM 
+    ,[4]                as C170_COD_ITEM 
+    ,[5]                as C170_DESCR_COMPL
+    ,[6]                as C170_QTD 
+    ,[7]                as C170_UNID
+    ,[8]                as C170_VL_ITEM
+    ,[9]                as C170_VL_DESC
+    ,[10]               as C170_IND_MOV
+    ,[11]               as C170_CST_ICMS
+    ,[12]               as C170_CFOP
+    ,[13]               as C170_COD_NAT
+    ,[14]               as C170_VL_BC_ICMS
+    ,[15]               as C170_ALIQ_ICMS
+    ,[16]               as C170_VL_ICMS
+    ,[17]               as C170_VL_BC_ICMS_ST
+    ,[18]               as C170_ALIQ_ST
+    ,[19]               as C170_VL_ICMS_ST
+    ,[20]               as C170_IND_APUR
+    ,[21]               as C170_CST_IPI
+    ,[22]               as C170_COD_ENQ
+    ,[23]               as C170_VL_BC_IPI
+    ,[24]               as C170_ALIQ_IPI
+    ,[25]               as C170_VL_IPI
+    ,[26]               as C170_CST_PIS
+    ,[27]               as C170_VL_BC_PIS
+    ,[28]               as C170_%_ALIQ_PIS
+    ,[29]               as C170_QUANT_BC_PIS
+    ,[30]               as C170_ALIQ_PIS
+    ,[31]               as C170_VL_PIS
+    ,[32]               as C170_CST_COFINS
+    ,[33]               as C170_VL_BC_COFINS
+    ,[34]               as C170_%_ALIQ_COFINS
+    ,[35]               as C170_QUANT_BC_COFINS
+    ,[36]               as C170_ALIQ_COFINS
+    ,[37]               as C170_VL_COFINS
+    ,[38]               as C170_COD_CTA
+    ,[39]               as C170_VL_ABAT_NT     
+    ,NF
+FROM
+dadosC170.csv
+(txt, utf8, embedded labels, delimiter is ';', msq);
+
+left Join (C100)
+C190:
+LOAD 
+     [2]         AS     C190_REG
+    ,[3]         AS     C190_CST_ICMS
+    ,[4]         AS     C190_CFOP
+    ,[5]         AS     C190_ALIQ_ICMS
+    ,[6]         AS     C190_VL_OPR 
+    ,[7]         AS     C190_VL_BC_ICMS
+    ,[8]         AS     C190_VL_ICMS 
+    ,[9]         AS     C190_VL_BC_ICMS_ST
+    ,[10]        AS     C190_VL_ICMS_ST
+    ,[11]        AS     C190_VL_RED_BC
+    ,[12]        AS     C190_VL_IPI
+    ,[13]        AS     C190_COD_OBS
+    ,NF
+FROM
+dadosC190.csv
+(txt, utf8, embedded labels, delimiter is ';', msq);
+
+left Join (C100)
+C197:
+LOAD 
+    [2]          AS     C197_REG
+    ,[3]         AS     C197_COD_AJ
+    ,[4]         AS     C197_DESCR_COMPL_AJ
+    ,[5]         AS     C197_COD_ITEM
+    ,[6]         AS     C197_VL_BC_ICMS 
+    ,[7]         AS     C197_ALIQ_ICMS
+    ,[8]         AS     C197_VL_ICMS 
+    ,[9]         AS     C197_VL_OUTROS
+    ,NF
+FROM
+dadosC197.csv
+(txt, utf8, embedded labels, delimiter is ';', msq);

@@ -1,0 +1,1534 @@
+1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28;29;30;31;32;33;34;35;36;37;38;39;empresa_competencia;NF
+;0200;000021;LANCHE DE FGO LEBOM PC 3,5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000099;ACEM RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000005;BATATA MCCAIN KG;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000039;SOBRECOXA BDJ PIONEIRO CX 12KG;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000041;EXTRATO DE TOMATE TP 1,080KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000036;QUEIJO MANTEIGA KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000038;QUEIJO PROVOLONE PALAC 500GR;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000032;MOSTARDA TAMBAU 800GR;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000014;ERVILHA LT 200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000049;PICANHA SUINA CONG TEMPERADA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000051;ERVILHA QUERO LT 2 KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000029;MILHO VERDE QUERO LT 24X200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000065;MOLHO TRADICIONAL QUERO SC 12/1020KG;3789610250438;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000068;SALSICHA DE FGO CONG AVIVAR PT 5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000066;QUEIJO COALHO 1,85 KGS;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000077;LANCHE DE FGO PALMALI PC 3.5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000080;MORTADELA FRANGO FRIATO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000072;MOLHO TOMATE TRAD POUCH 6/2KG;7896945401995;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000082;CORACAO CONG BAND P12;1789822806265;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000085;MILHO VERDE QUERO LT 2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000084;MOLHO SHOYU 12/750ML TAMBAU;7896945401704;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000088;PEITO DE FGO DANIELI CX17 KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000097;MILHO VERDE FUGINI SC 32X200G;7897517209025;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000104;ARANHA CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000105;CUPIM A CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000101;COXAO MOLE RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000103;PATINHO RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000111;MILHO VERDE FUGINI SACHET 2KG;7897517209322;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000134;MACARRAO DE LASANHA MAURICEA 10X500G;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000139;CAPA DE FILE RESF BOI BRASIUL;7899782700436;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000137;CUPIM A CONG BOI BRASIL;7899782701211;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000142;PATINHO RESF BOI BRASIL;7899782702454;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000138;ARANHA CONG BOI BRASIL;7899782702942;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000145;ERVILHA SC FUGINI 32X200 GR;7897517209056;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000141;PALETA BOV RESF BOI BRASIL;7899782702324;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000144;PEITO CONG BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000153;COSTELA BOVINA SERRADA BOI BRASIL;7899782700917;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000152;LAGARTO BOV RESF BOI BRASIL;7899782701761;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000148;ERVILHA FUGINI SACHET 2KG;7897517209339;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000150;ACEM BOV RESF BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000154;QUEIJO MUSSARELA IOGA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000155;CUPIM B CONG BOI BRASIL;7899782701266;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000157;PERU SEARA 4PCS 16,4KG CG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000159;MACARRAO ESPAGUETE MAURICEIA 20X500G;;;FD;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000163;EXTRATO DE TOMATE QUERO LT 4/4000G;1789610250240;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000170;AZEITONAS VERDES INT FUGINI SC 1,05KG;1789751720824;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000183;PICANHA SUINA TEMP FRIMESA;1789627594176;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000182;CREME DE GOIABA TAMBAU POUCH 6/2,5KG;7896945402046;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000266;ACEM BOVINO FRIGOL;7898386720185;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000270;LAGARTO BOVINO FRIGOL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000357;FRALDAO BOV RESF BOI BRASIL;7899782701662;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000359;CORACAO DE FRANGO BAND UNIAVES CX C/12KG;1789893870681;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000378;COXAO DURO FRIGOL;7898386720079;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000385;CATCHUP TRADICIONAL QUERO TP 24/300G;5789610250287;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000386;MAIONESE QUERO TP 24/250G;5789610250940;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000418;MOLHO TOM BONARE SACHE 6X2KG HOT DOG;1789890515381;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000504;CATCHUP BALDE DUSUL 3.30 KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000505;MOSTARDA BALDE DUSUL 3,20KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000578;MACARRAO VITARELA ESPAGUETE FINO 10X500;7896213000011;;FD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000580;BUCHA DURA D 7;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000581;BUCHA PLASTICA DURAFIX N.10;;;UND;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000582;CABO FLEX LUZZANO 1,5MM MT;;;UND;00;;;85;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000609;CANETA CORRETIVA 7 ML MP 435 MASTERPRINT;;;UN;00;;;38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000621;MAIONESE HEINZ PET 8 X 215G;2789610259404;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000622;QUEIJO MUSSARELA KECO;7898932612087;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000624;MOLHO TOM BONARE SC 24X340G TRADICIONAL;1789890515363;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000625;MOLHO TOM BONARE SC 24X340G MANJERICAO;1789890515367;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000628;EXTRATO TOM BONARE SC 32X340G;6789890515371;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000629;ACHOCOLATADO BEB LACTEA  24X200ML NILZA;7898080641397;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000647;AMORT  DIANT HG31100 GP30231 27202 FIEST;;;UN;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000648;COXIM MOTOR HONDA ESQ 12244LF;;;UN;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000732;BATATA CONG SIMPLOT PT 2,50 KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000734;HAMBURGUER FRANGO PERDIGAO CX2,016K;7891515605780;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000736;IMPRESSORA HP LASERJET P1102W CE658A;;;UN;00;;;84;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000740;(123006) CABO ABERTURA CAPO 363MM ();;;PC;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000749;ACEM BOV RESF BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000752;(9275W) BORRACHA BARRA ESTABILIZADORA DI;;;PC;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000781;FRANGO CONG UNIAVES CX 20KG;9789893870800;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000795;PEITO DE FRANGO CONG BIG FRANGO CX 18KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000803;CAPA DE FILE BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000801;PALETA BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000812;COXA S/COXA VAREJO BIG FANGO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;999999;MATERIAL DE CONSUMO/COMBUSTIVEL;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000840;MILHO VERDE QUERO LT 6X2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;737;ARANHA CONG BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;624;LING CALAB RETA DALIA PT 4,6 KG;;;PT;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;701;LANCHE DE FGO AURORA P� 2,50 KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;601;LING SUINA DALIA PT 5KG;;;PT;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;1598;PERNIL SUINO C/OSSO S/PELE CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;1609;LINGUA BOVINO BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000857;ACHOCOLATADO EM PO SC ITALAC 24X400G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000872;MOSTARDA SACHET AUREA 189X6G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000873;EMPANADO NOBRE CX C/3 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000883;CHOCOLATE BARRA BRANCO HARALD 10X1.050KG;;;UN;00;;;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000886;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000917;FRALDAO BOV RESF PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000920;CHOCOLATE BARRA MEIO AMARGO HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000924;PAPEL TOALHA ABSOLUTO DECOR PC 02 ROLOS;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000925;CATCHUP TAMBAU 12X830G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000926;BANANINHA BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000928;PICANHA A BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000934;LING DE FRANGO FINA FRIMESA PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000935;BIFE DO VAZIO (PACU) BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000942;MANTEIGA C/SAL PALAC 200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000956;MANTEIGA C/SAL PALAC 500G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000961;FARINHA DE TRIGO S/FERMENTO PURO SABOR 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000965;COSTELA SUINA CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000969;MARGARINA PURO SABOR 70LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000970;MARGARINA PURO SABOR 70LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000971;MARGARINA MEDALHA DE OURO 80LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000972;MARGARINA MEDALHA DE OURO 80LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000982;LING CALAB TRAD LEBOM PT 2,50 KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001015;PONTA DE LANCHE FRANGO WILSON;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001019;PERNIL SUINO C/OSSO S/PELE CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001023;GUARDANAPO 14X14CM POP PLUS BRANCO FD COM 20X200;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001034;COXA S/COXA CONG IND AVIVAR CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001037;AMACIANTE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001047;GALINHA MEDIA CONG PALMALI CX 18KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001054;FEIJAO PRETO FUGINI SC 32X250G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001060;PRATO (QUENTINHA)  MANUAL  P8 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001076;DUETO QUERO LT 24 X 200G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001084;BACON FATIADO SATIARE 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001098;CATCHUP CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001106;CATCHUP CEPERA BD 4X3,5KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001111;ACHOCOLATADO BEB LACTEA  27X200ML DOURADINHO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001115;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001120;CHOCOLATE BARRA BLEND HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001123;MAMINHA BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001138;LEITE CONDENSADO VALEDOURADO 24X395G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001140;LANCHE DE FGO FATIADO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001150;MOLHO BARBECUE CEPERA 24X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001154;COXA S/COXA CONG IND UNIAVES CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001155;PEITO DE FRANGO CONG UNIAVES CX 20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001167;QUEIJO MUSSARELA SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001172;GALINHA MEDIA CONG PALMALI CX 18KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001177;FRANGO CONG UNIAVES CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001219;LING DE FRANGO CONG SADIA PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001228;MAIONESE DUSUL BAG 6 X2,50 KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001241;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001243;PAPEL HIGIENICO FAMILIAR PERFUMADO 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001276;BEIJINHO FESTA AUREA 950G 1X6;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000869;COXA S/COXA GALINHA MATRIZ  SOMAVE CX 20KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000937;CORACAO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000976;LING SUINA CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000989;EMPANADO DE FRANGO FRANGOSUL CX 3,00 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000992;QUEIJO TIPO GORGONZOLA DALLORA;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001009;PONTA QUEIJO MUSSARELA CENTRO OESTE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001010;BATATA CONG PRIME FRIES PT 2,50 KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001017;CREME DE LEITE FRIMESA UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001021;PRESUNTO DE FRANGO AURORA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001031;BANANINHA BOV  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001036;PONTA DE LANCHE MISTO DALIA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001039;CALDO DE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001041;CALDO DE LEGUMES SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001042;CREME DE CEBOLA SC TECNUTRI 10X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001043;MOLHO ESCURO DEMIGLACE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001044;PURE DE BATATA SC TECNUTRI 10X800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001045;MILANESA SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001046;PROTEINA DE SOJA CARNE SC TECNUTRY 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001048;MAIONESE FUGINI SC 36X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001051;MOLHO SHOYO FUGINI 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001052;CHAMPIGNON INTEIRO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001053;CHAMPIGNON FATIADO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001056;EXTRATO DE TOMATE FUGINI SC 32X340G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001061;PRATO (QUENTINHA)  MANUAL  P9 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001062;BANDEJA RETANGULA 100X500G B6 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001068;CORACAO BOVINO PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001070;PROTEINA DE SOJA FRANGO  SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001073;PONTA QUEIJO MUSSARELA KECO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001075;DUETO QUERO LT 6X2KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001077;LOMBO COZIDO DEFUMADO NOBRE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001080;PAPEL HIGIENICO SNOW C/4UN 30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001083;CUPIM B CONG PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001087;ACHOCOLATADO BEB LACTEA  27X200ML CCGL;;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001088;LEITE EM PO INTEGRAL 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001090;CATCHUP FUGINI SC 32X340G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001092;MACARRAO ESPAGUETE FINO GOSTOSO 10X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001093;MOSTARDA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001094;MOLHO INGLES CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001095;CATCHUP CEPERA 24X210G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001096;MOLHO DE ALHO CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001097;MOSTARDA ESCURA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001100;MOLHO DE ALHO CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001101;MOSTARDA CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001102;CATCHUP SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001103;MOLHO BARBECUE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001104;MAIONESE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001105;MOSTARDA SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001112;ACHOCOLATADO BEB LACTEA  12X1LT VALEDOURADO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001114;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001119;QUEIJO PRATO PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001122;QUEIJO RALADO SELETI 1KG;;;PCT;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001124;HAMBURGUER MISTO BONUTT CX 2,58 KGS 46UN;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001126;CARNE MOIDA CONG BOI BRASIL PT 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001127;MACARRAO INST TOMATE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001128;MACARRAO INST LEGUMES QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001129;MACARRAO INST CARNE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001130;MACARRAO INST GALINHA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001131;MACARRAO INST GALINHA CAIPIRA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001132;KISUCO LARANJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001133;KISUCO UVA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001134;KISUCO MORANGO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001135;KISUCO MARACUJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001136;KISUCO ABACAXI CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001137;KISUCO LIMAO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001139;MORTADELA FRANGO PALMALI P� 3KG;;;PC;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001141;PONTA DE LANCHE FRANGO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001143;ACHOCOLATADO EM PO SC ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001144;DOCE DE LEITE ITALAC 24X400G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001145;PROTEINA DE SOJA FRANGO SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001146;PROTEINA DE SOJA CARNE SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001147;FILE DE PEIXE MERLUZA CONGELADO CX C/ +/- 12KG;;;KG;00;;;03;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001148;FRANGO FESTIVO TEMPERADO PIONEIRO;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001149;PICANHA B BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001151;QUEIJO MUSSARELA PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001152;CUPIM CONG MARFRIG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001237;MOLHO DE ALHO TAMBAU 12/750ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001508;LING DE CHURRASCO CONG LAR PT 1KG;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001540;FARINHA DE TRIGO S/FERMENTO PURO SABOR 10X1KG;;;FRD;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001409;QUEIJO MUSSARELA DA VACA  KG;;;KG;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001242;PAPEL HIGIENICO FAMILIAR NEUTRO 4X30M;;;UN;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001504;OSSO DO PATINHO BOVINO FRIGOL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001116;LEITE UHT DESNATADO VALEDOURADO 12X1LT;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001164;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X1LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001165;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X2LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001238;MOLHO DE PIMENTA EXTRA PICANTE 12/750ML TAMBAU;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001539;MARGARINA SINA 80LIP 15KG;;;BD;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001583;EXTRATO DE TOMATE FUGINI SC 36X190G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001209;LEITE DE COCO TAMBAU 24X200ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001479;BATATA CONG MAZID PT 25X400G;;;PT;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001546;GUARDANAPO 18X20CM ECONOMIC FD48X50;;;FRD;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001602;KIT MOLHO DE PIMENTA ESPECIAIS DA ROCA 4X60ML;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001610;AZEITE OLIVA EXTRA VIRGEM BIONDO 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001611;OLEO COMPOSTO SOJA E OLIVA TRADICAO VD 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001613;OLEO COMPOSTO SOJA E OLIVA BARCELONA 24X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001614;OLEO COMPOSTO SOJA E OLIVA TRADI��O 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001615;AZEITE OLIVA EXTRA VIRGEM TRADI��O VD 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001618;AZEITE OLIVA EXTRA VIRGEM TRADI��O GALAO 4X5,01LT;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001621;AZEITE OLIVA EXTRA VIRGEM BARCELONA VIT VD 12X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001559;QUEIJO MANTEIGA MISTURADO PC +/- 3KG STA CLARA;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001521;CONTRA FILE PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001455;FARINHA DE TRIGO C/FERMENTO PRIMOR 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001574;PRATO RASO DESC 17,5CM COPOBRAS PR018 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001576;PRATO RASO DESC 15CM COPOBRAS PR015 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001578;PRATO FUNDO DESC 12CM COPOBRAS PRF012 100X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001410;QUEIJO MUSSARELA DA VACA LIGHT 500G;;;KG;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001166;TAMPICO - BEB MISTA FRUTAS CITRICAS 12X330ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001430;LEITE EM PO INTEGRAL INSTANTANEO 800 G LA SERENISSIMA;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001589;MOLHO DE PIMENTA INVOCADO DA ROCA 60ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001217;MARGARINA QUALY C/SAL  500G;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001318;QUEIJO MANTEIGA RAPA PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001537;FILE DE COSTELA PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001470;MAIONESE FUGINI SACHE 18X500G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001541;FILE DE PEIXE POLACA DO ALASCA CONG;;;KG;00;;;03;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001252;CATCHUP HEINZ 16/397G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001208;LEITE DE COCO TAMBAU 12X500ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001584;MOLHO STROGONOFF FUGINI SC 32X300G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001603;SALAME FATIADO SEARA - 100GR;;;UN;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001529;COXAO MOLE RESF LKJ;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001637;COXA CONG PIONEIRO VAREJO KG;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001645;FEIJAO PRETO BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001646;FEIJAO CARIOCA BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001445;EMPANADO DE FRANGO SEARA CX 72X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001693;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001692;ACHOCOLATADO BEB LACTEA  12X1LT BOA VIDA;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001694;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001695;LEITE UHT DESNATADO VALEDOURADO 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001743;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X1LT;;;UN;00;;;22;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001744;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X2LT;;;UN;00;;;22;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001791;CARNE MOIDA CONG BOI BRASIL PT 1 KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001516;CORACAO BOVINO BOI BRASIL;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001879;BACON FATIADO EXTRA LOMBO DALIA KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001599;CARRE SUINO CONG DALIA;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002084;LOMBO CANADENSE DEFUMADO SEARA;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001754;LANCHE DE FGO LEBOM (BRUSTER) P� +/- 3,50 KG;;;PC;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001570;SALSICHA MISTA LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001569;SALSICHA DE FGO LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001590;PEITO DE PERU DEFUMADO SEARA;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001854;PRESUNTO COZIDO SEARA;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001465;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002203;OLEO DE ALGODAO FLOR DE ALGODAO BD 15KG;;;BD;00;;;15;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001721;MOLHO TRADICIONAL FUGINI SACHE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001747;DUETO FUGINI SC 32 X 200G;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001794;REQUEIJAO AMARILIS SACHE 8X1.8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001968;REQUEIJAO QUEIJO & SABOR SACHE 10X1.5 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002213;REQUEIJAO CHEDDAR AMARILIS 1,2 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002006;REQUEIJAO CHEDDAR TAINA 1,8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001248;CHOCOLATE 1,05KG SWEET LINE DALLORA;;;UN;00;;;19;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001888;COXINHA DA ASA TEMP PIONEIRO CX 27X0,750G;;;PCT;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001447;GALINHA PESADA CONG SOMAVE CX 22KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001222;MOLHO TRACIDIONAL BONARE SC 24X340G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001474;FIGADO DE FGO  BAND UNIAVES CX C 12 KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001732;FILE DE PEITO CONG UNIAVES CX C/20 KG;;;CX;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001820;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000885;PONTA QUEIJO MUSSARELA PALAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000975;LING DE FRANGO CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000977;LING DE FRANGO CONG SATIARE PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000978;LING CALAB TRAD SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000979;LING CALAB RETA SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000993;CAPA DE FILE XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000994;PALETA BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000995;PEITO BOVINO XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001030;LINGUA BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001072;QUEIJO MUSSARELA FATIADO KECO;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001157;FRALDAO BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001162;FRANGO CONG PIONEIRO CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001171;QUEIJO MUSSARELA FATIADO SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001174;PONTA QUEIJO MUSSARELA SELETTO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001178;MACARRAO TALHARIM VITAMASSA 20X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001179;LOMBO CANADENSE DEFUMADO SANTIARE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001180;COSTELA SUINA CONG SATIARE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001183;CREME CONFEITEIRO 1KG RICCA;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001199;DOCE BANANADA C/CANELA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001200;DOCE GOIABADA C/AMENDOIM TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001201;DOCE GOIABADA C/CASTANHA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001202;DOCE GOIABADA C/COCO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001203;COCO RALADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001204;COCO RALADO UMIDO E ADOCADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001205;DOCE CAJU CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001206;DOCE GOIABADA CRISTALIZADA TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001207;DOCE GOIABADA CASCAO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001210;EXTRATO DE TOMATE TAMBAU 8/1,02KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001211;INGREDIENTE P/FEIJOADA SEARA 1KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001213;COXA S/COXA CONG IND FRIATTO CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001218;MARGARINA SOFITELI 75LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001220;FILE MIGNON SUINO CONG SADIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001221;MARGARINA DELINE C/SAL 500G;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001223;PRESUNTO DE PERU FATIADO  PERDIGAO KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001227;MAIONESE DUSUL BAG 12 X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001232;CATCHUP SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001233;MOSTARDA SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001234;CHOCOLATE EM PO SOLUVEL ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001235;QUEIJO RALADO ITALAC 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001239;DOCE BANANADA CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001240;DOCE GOIABA CREMOSO TAMBAU 24X280G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001257;MAIONESE HEINZ 16/397G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001265;COXA S/COXA CONG IND SOMAVE CX C/18 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001269;CHOCOLATE BARRA AO LEITE MELKEN 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001302;PRESUNTO COZIDO REZENDE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001303;FILE MIGNON SUINO CONG SEARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001304;MOLHO DE PIMENTA SRIRACHA CEPERA 12/270ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001305;GOMA DE MANDIOCA DUNORDESTE 800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001307;BATATA CONG RAPIPAP PT 24X400G;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001308;CREME DE LEITE LEITBOM UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001311;ERVILHA VERDE CONG GELCAMPO 300G;;;PT;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001315;QUEIJO MANTEIGA TIPO 1 PC +/- 3G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001317;QUEIJO MANTEIGA TIPO 1 PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001320;BANHA 450G FRIMESA;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001327;CANUDO MILK SHAKE SACHE 25CM  30/100;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001330;PAPEL HIGIENICO RESERVA PREMIUM 8X300MT;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001336;PAPEL TOALHA ECONOMIC 6X150M DE ROLO;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001353;MOLHO BARBECUE FUGINI SC 28X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001360;CHAMPIGNON FATIADO BONARE SC 20X100G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001362;CHAMPIGNON FATIADO BONARE 6X1,010KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001368;PT104 - QUENT ISOPOR C/TAMPA 187X72MM 1100MLX100UN;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001380;MORTADELA TIPO BOLOGNA FATIADA 200G FRIMESA;;;UN;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001385;BATATA MANIA ORIGINAL 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001388;BATATA MANIA FRANGO GRELHADO 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001394;PEITO DE FRANGO VAREJO AVIVAR;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001401;ALHO CHINES N� 6 CX 10KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001414;QUEIJO PARMESAO DA VACA PE�A;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001432;QUEIJO MUSSARELA FATIADO DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001433;PONTA QUEIJO MUSSARELA DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001437;MOLHO QUATRO QUEIJOS FUGINI SC 32X300G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001444;BATATA CONG MCCAIN PT 5X2KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001446;CATCHUP HEINZ 8/2KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001449;MIX DE AMENDOINS LA VIOLETERA 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001453;REQUEIJAO DALORA SABOR PROVOLONE 1,05KG;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001458;CONTRA FILE PORCIONADO FRIGOL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001468;QUEIJO MUSSARELA FATIADO NATVILLE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001483;PICANHA FATIADA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001489;PEITO DE FRANGO VAREJO FRIALL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001524;COPO DESCARTAVEL TRANSP 500ML COPOBRAS;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001543;LEITE EM PO DESNATADO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001544;LEITE EM PO INSTANTANEO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001564;CRL003 - BANDEJA EPS 235X180X16 MM 100UN;;;FRD;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001565;ESPONJA ESFRELUX PT C/4UN;;;PT;00;;;68;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001566;MOLHO SAKURA AJI-NO-SHOYO 12X1000ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001568;MOLHO SAKURA AJI-NO-SHOYO 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001571;RODO PLASTICO STA MARIA 40CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001572;VASSOURA PHENIX STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001573;VASSOURA VARRY STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001582;PRATO RASO DESC 23CM COPOBRAS PR023 50X10;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001588;AZEITE DE DENDE DA ROCA 06X200ML;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001593;SAL GROSSO BBQ ORIGINAL DA ROCA 500G;;;UN;00;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001644;BOBINA PVC 300X1000MT BRASILSUL;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001653;CHOCOLATE EM PO 50% CACAU TECNUTRI 10X1.010KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001674;RODO PLASTICO STA MARIA 60CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001678;FUMACA LIQUINA DA ROCA 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001679;MARINADA SELECT COM ERVAS FINAS 400ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001335;GUARDANAPO 30X30CM ESSENCIAL QUALITY FD 20X50;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001663;OSSOS CONGELADO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001664;REQUEIJAO CHEDDAR ROSELI SC 24X400G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001690;CANUDO BIO GARRAFA SC PAPEL 5MM 30X100 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001701;GARFO SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001702;COLHER SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001714;MOUSSE CHOCOLATE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001715;MOUSSE MORANGO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001716;MOUSSE MARACUJA SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001717;MOUSSE LIMAO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001728;MAMINHA BOV RESF BOI FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001753;LEITE CONDENSADO (GOURMET) 27X395 G ITALAC;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001767;ACEM BOVINO PORCIONADO FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001768;ARANHA CONG LKJ;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001800;CURAU COM LEITE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001806;DOCE DE LEITE ITALAC 24X350G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001808;MACARRAO INTEGRAL ESPAGUETE URBANO 24X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001810;ARROZ PARA SUSHI URBANO 6X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001811;ARROZ BRANCO TIO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001812;ARROZ PARBORIZADO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001813;CHOCOLATE EM PO SOLUVEL ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001777;AZEITONA VERDE SEM CAROCO CEPERA SC 18X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001814;BOBINA FUNDO ESTRELA ULTRAPLAS GG 38X55 6X300UN;;;UN;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001816;SACO PARA LIXO PRETO ULTRAPLAST 100LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001817;SACO PARA LIXO PRETO ULTRAPLAST 15LT 50PTX20UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001818;SACO PARA LIXO PRETO ULTRAPLAST 200LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001819;SACO PARA LIXO PRETO ULTRAPLAST 30LT 50PTX10UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001738;MOLHO BARBECUE TAMBAU 12X380G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001821;AZEITONA VERDE C/CAROCO TAMBAU SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001822;AZEITONA VERDE S/CAROCO TAMBAU SC 24X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001824;SALSICHA DE FRANGO COPACOL PT 3 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001534;LANCHE DE FGO WILSON P� 3,75 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001830;EMPANADO DE FRANGO COPACOL CX C/60X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001831;MOLHO P/SALADA ITALIANO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001832;MOLHO P/SALADA PARMESAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001833;MOLHO P/SALADA LIMAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001834;MOLHO MANJERICAO QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001835;MOLHO P/SALADA ROSE KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001836;SAL ROSA HIMALAIA MOIDO 12X500G;;;UN;00;;;25;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001837;BATATA PALHA KISABOR FD 20X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001838;TRIGO PARA KIBE KISABOR 24X500G;;;UN;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001840;TAPIOCA KISABOR 12X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001841;FAROFA PRONTA TEMPERADA KISABOR 24X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001842;FAROFA PRONTA SABOR BACON KISABOR 12X250G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001843;TRIGO PARA KIBE KISABOR 3X5KG;;;PT;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001776;AZEITONA VERDE INTEIRA CEPERA SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001778;CHAMPIGNON INTEIRO CEPERA SC 24X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001779;MAIONESE CEBOLA CARAMELIZADA CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001780;MAIONESE ALHO CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001846;VINAGRE FRUTA MACA CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001847;VINAGRE VINHO TINTO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001848;VINAGRE BALSAMICO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001849;MAIONESE CHEDDAR CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001789;FILE DE PEITO BAND DALIA 18X700G;;;UN;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001253;MOLHO TRADICIONAL QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001260;MOSTARDA SACHET HEINZ CX 192X5G;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001845;AZEITONA RECHEADA C/PIMENTAO CEPERA VD 12X380G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001856;MOSTARDA SACHET QUERO 176X7G CX;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001775;CEREJA EM CALDA CEPERA 24X80G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001725;RECHEIO FORNEAVEL AO LEITE HARALD 8X1.050KG;;;UN;00;;;18;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001689;FARINHA DE TRIGO S/FERMENTO PRIMOR 10X1KG;;;UN;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002365;MACAXEIRA DESCASCADA NORDESTE FRUIT 20X1KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001749;MAIONESE SACHET TAMBAU CX 192X7G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002318;MOLHO TRADICIONAL TAMBAU SC  6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001877;LING TOSCANA SEARA PT 700G;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002369;COXA S/COXA CONG IND DALIA CX C/16 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002430;FILE DE PEITO CONG DALIA CX C/16 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002173;SAL DE PARRILHA COM ALHO DA ROCA 450G;;;UN;00;;;25;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002180;ALHO PICADO DA ROCA 1KG;;;UN;00;;;07;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000930;MORTADELA FRANGO CONFIANCA P� 3,50KG;;;PC;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001381;LING CALAB TRAD FRIMESA PT 2 KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001405;QUEIJO PARMESAO RALADO FUGINI 25X40G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001406;QUEIJO PARMESAO EM TIRAS FUGINI 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001713;MILANESA PANKO SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001720;AZEITONA VERDE INTEIRA FUGINI SC 24X150G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001758;REQUEIJAO TRADICIONAL FRIMESA 12X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001866;MOLHO STROGONOFF TECNUTRI  SC 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001867;BACON MANTA SAUDALI KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001869;LING DE FRANGO EVA CONG LAR PT 60X250G;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001872;FILE DA COSTELA PORCIONADO BONUTT(BIFE DE ANCHO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001873;CONTRA FILE PORCIONADO BONUTT(BIFE CHORIZO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001875;CONTRA FILE RESF BONUTT;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001876;PEITO BOVINO PORCIONADO  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001781;CHAMPIGNON FATIADO CEPERA SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000939;SALSICHA MISTA HOT DOG  PERDIGAO  PT 2,80 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002327;SAL GROSSO BBQ COM CHIMICHURRI DA ROCA 450G;;;UN;00;;;25;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001745;TAMPICO - BEB MISTA FRUTAS CITRICAS 12X330ML;;;UN;00;;;22;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002246;REQUEIJAO TRADICIONAL SC 8X1,80 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002247;REQUEIJAO TRADICIONAL MILKPIZZA SC 10X1,50 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002282;BATATA CONG QUALITY 10MM PT 6X2 KG;;;PT;00;;;20;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002319;PICANHA SUINA TEMP SAUDALI;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002241;BACON FATIADO SAUDALI 6X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002237;LING CALAB TRAD SAUDALI PT 2,5 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001886;PEITO DE FRANGO CONG COPACOL  CX 17 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002456;SALSICHA MISTA RARA PT 4X5 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002321;FILE DE PEITO CONG RARA CX C/20 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001893;DUETO GOIAS VERDE/BONARE LT 6X1,7KG;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002034;FARINHA DE TRIGO C/FERMENTO PRIMOR 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001997;LEITE UHT INTEGRAL ITALAC 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001998;LEITE UHT DESNATADO ITALAC 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002332;LEITE CONDENSADO (GOURMET) 27X395 G ITALAC;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002070;ACHOCOLATADO BEB LACTEA  12X1LT ITALAC;;;UN;00;;;22;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002004;CREME DE LEITE ITALAC UHT 12X1,030KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001722;ACHOCOLATADO EM PO SC ITALAC 24X200G;;;UN;00;;;18;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002248;MORANGO EM PO SC ITALAC POTE 400G;;;UN;00;;;17;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001912;GUARDANAPO 14X14CM ECONOMIC FD 20X120 FOLHAS;;;FRD;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002481;COXA E SOBRECOXA DE GALINHA SOMAVE PT  CX 20KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002060;CATCHUP TAMBAU 10X1,20KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002482;AZEITONA VERDE C/C MIUDA TAMBAU BALDE 2KG;;;UN;00;;;20;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002386;REQUEIJAO REKEMINAS SC 10X1,50 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002483;BATATA CONG UAI (BEM BRASIL) PT 7X2 KG;;;PT;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;001423;QUEIJO MUSSARELA PICNIC PC +/- 4KG;;;KG;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002329;PEITO DE FRANGO CONG IND RARA CX C/20 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002112;COXA S/COXA CONG IND RARA (AVIVAR) CX C/20 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;002235;LING SUINA SAUDALI PT 5KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;1;
+;0200;000099;ACEM RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000005;BATATA MCCAIN KG;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000039;SOBRECOXA BDJ PIONEIRO CX 12KG;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000041;EXTRATO DE TOMATE TP 1,080KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000036;QUEIJO MANTEIGA KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000038;QUEIJO PROVOLONE PALAC 500GR;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000032;MOSTARDA TAMBAU 800GR;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000014;ERVILHA LT 200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000049;PICANHA SUINA CONG TEMPERADA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000051;ERVILHA QUERO LT 2 KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000029;MILHO VERDE QUERO LT 24X200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000065;MOLHO TRADICIONAL QUERO SC 12/1020KG;3789610250438;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000068;SALSICHA DE FGO CONG AVIVAR PT 5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000066;QUEIJO COALHO 1,85 KGS;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000077;LANCHE DE FGO PALMALI PC 3.5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000080;MORTADELA FRANGO FRIATO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000072;MOLHO TOMATE TRAD POUCH 6/2KG;7896945401995;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000082;CORACAO CONG BAND P12;1789822806265;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000085;MILHO VERDE QUERO LT 2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000084;MOLHO SHOYU 12/750ML TAMBAU;7896945401704;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000088;PEITO DE FGO DANIELI CX17 KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000097;MILHO VERDE FUGINI SC 32X200G;7897517209025;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000104;ARANHA CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000105;CUPIM A CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000101;COXAO MOLE RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000103;PATINHO RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000111;MILHO VERDE FUGINI SACHET 2KG;7897517209322;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000134;MACARRAO DE LASANHA MAURICEA 10X500G;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000139;CAPA DE FILE RESF BOI BRASIUL;7899782700436;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000137;CUPIM A CONG BOI BRASIL;7899782701211;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000142;PATINHO RESF BOI BRASIL;7899782702454;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000138;ARANHA CONG BOI BRASIL;7899782702942;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000145;ERVILHA SC FUGINI 32X200 GR;7897517209056;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000141;PALETA BOV RESF BOI BRASIL;7899782702324;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000144;PEITO CONG BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000153;COSTELA BOVINA SERRADA BOI BRASIL;7899782700917;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000152;LAGARTO BOV RESF BOI BRASIL;7899782701761;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000148;ERVILHA FUGINI SACHET 2KG;7897517209339;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000149;MOLHO TOMATE TRAD. FUGINI STAND UP32X340;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000150;ACEM BOV RESF BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000154;QUEIJO MUSSARELA IOGA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000155;CUPIM B CONG BOI BRASIL;7899782701266;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000157;PERU SEARA 4PCS 16,4KG CG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000159;MACARRAO ESPAGUETE MAURICEIA 20X500G;;;FD;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000163;EXTRATO DE TOMATE QUERO LT 4/4000G;1789610250240;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000170;AZEITONAS VERDES INT FUGINI SC 1,05KG;1789751720824;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000183;PICANHA SUINA TEMP FRIMESA;1789627594176;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000182;CREME DE GOIABA TAMBAU POUCH 6/2,5KG;7896945402046;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000266;ACEM BOVINO FRIGOL;7898386720185;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000270;LAGARTO BOVINO FRIGOL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000357;FRALDAO BOV RESF BOI BRASIL;7899782701662;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000359;CORACAO DE FRANGO BAND UNIAVES CX C/12KG;1789893870681;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000378;COXAO DURO FRIGOL;7898386720079;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000385;CATCHUP TRADICIONAL QUERO TP 24/300G;5789610250287;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000386;MAIONESE QUERO TP 24/250G;5789610250940;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000418;MOLHO TOM BONARE SACHE 6X2KG HOT DOG;1789890515381;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000504;CATCHUP BALDE DUSUL 3.30 KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000505;MOSTARDA BALDE DUSUL 3,20KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000578;MACARRAO VITARELA ESPAGUETE FINO 10X500;7896213000011;;FD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000579;MACARRAO LINGUINE VITARELLA  20X500G;7896213002732;;FD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000580;BUCHA DURA D 7;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000581;BUCHA PLASTICA DURAFIX N.10;;;UND;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000596;HAMBURGUER MISTO PERDIGAO CX 2,016KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000621;MAIONESE HEINZ PET 8 X 215G;2789610259404;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000622;QUEIJO MUSSARELA KECO;7898932612087;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000624;MOLHO TOM BONARE SC 24X340G TRADICIONAL;1789890515363;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000625;MOLHO TOM BONARE SC 24X340G MANJERICAO;1789890515367;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000628;EXTRATO TOM BONARE SC 32X340G;6789890515371;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000629;ACHOCOLATADO BEB LACTEA  24X200ML NILZA;7898080641397;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000641;EXTRATO DE TOMATE QUERO SC 12/1020KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000642;MOLHO TRADICIONAL QUERO SC 12/1020KG;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000648;COXIM MOTOR HONDA ESQ 12244LF;;;UN;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000686;(2120180029) CONTRA PINO FINO 1/8X2 ();;;PC;00;;;73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000701;MAIONESE FUGINI SACHE 2KG/1990M;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000734;HAMBURGUER FRANGO PERDIGAO CX2,016K;7891515605780;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000759;(FD101) SAPATA FREIO TRASEIRA COMPLETO (;;;PC;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000781;FRANGO CONG UNIAVES CX 20KG;9789893870800;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000803;CAPA DE FILE BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000801;PALETA BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000812;COXA S/COXA VAREJO BIG FANGO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;999999;MATERIAL DE CONSUMO/COMBUSTIVEL;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000840;MILHO VERDE QUERO LT 6X2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000857;ACHOCOLATADO EM PO SC ITALAC 24X400G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000872;MOSTARDA SACHET AUREA 189X6G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000873;EMPANADO NOBRE CX C/3 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000883;CHOCOLATE BARRA BRANCO HARALD 10X1.050KG;;;UN;00;;;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000886;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000917;FRALDAO BOV RESF PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000920;CHOCOLATE BARRA MEIO AMARGO HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000924;PAPEL TOALHA ABSOLUTO DECOR PC 02 ROLOS;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000925;CATCHUP TAMBAU 12X830G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000926;BANANINHA BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000928;PICANHA A BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000931;PEITO BOVINO MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000934;LING DE FRANGO FINA FRIMESA PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000935;BIFE DO VAZIO (PACU) BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000942;MANTEIGA C/SAL PALAC 200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000956;MANTEIGA C/SAL PALAC 500G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000961;FARINHA DE TRIGO S/FERMENTO PURO SABOR 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000965;COSTELA SUINA CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000969;MARGARINA PURO SABOR 70LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000970;MARGARINA PURO SABOR 70LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000971;MARGARINA MEDALHA DE OURO 80LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000972;MARGARINA MEDALHA DE OURO 80LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000982;LING CALAB TRAD LEBOM PT 2,50 KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000984;CATCHUP TRADICIONAL QUERO TP 24/300G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001015;PONTA DE LANCHE FRANGO WILSON;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001019;PERNIL SUINO C/OSSO S/PELE CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001023;GUARDANAPO 14X14CM POP PLUS BRANCO FD COM 20X200;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001034;COXA S/COXA CONG IND AVIVAR CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001037;AMACIANTE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001047;GALINHA MEDIA CONG PALMALI CX 18KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001054;FEIJAO PRETO FUGINI SC 32X250G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001060;PRATO (QUENTINHA)  MANUAL  P8 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001076;DUETO QUERO LT 24 X 200G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001084;BACON FATIADO SATIARE 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001098;CATCHUP CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001106;CATCHUP CEPERA BD 4X3,5KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001111;ACHOCOLATADO BEB LACTEA  27X200ML DOURADINHO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001115;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001120;CHOCOLATE BARRA BLEND HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001123;MAMINHA BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001138;LEITE CONDENSADO VALEDOURADO 24X395G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001140;LANCHE DE FGO FATIADO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001150;MOLHO BARBECUE CEPERA 24X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001154;COXA S/COXA CONG IND UNIAVES CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001155;PEITO DE FRANGO CONG UNIAVES CX 20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001167;QUEIJO MUSSARELA SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001172;GALINHA MEDIA CONG PALMALI CX 18KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001177;FRANGO CONG UNIAVES CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001219;LING DE FRANGO CONG SADIA PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001226;QUEIJO MUSSARELA MOLFINO FATIADO  KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001228;MAIONESE DUSUL BAG 6 X2,50 KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001241;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001243;PAPEL HIGIENICO FAMILIAR PERFUMADO 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001276;BEIJINHO FESTA AUREA 950G 1X6;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000869;COXA S/COXA GALINHA MATRIZ  SOMAVE CX 20KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000937;CORACAO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000976;LING SUINA CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000989;EMPANADO DE FRANGO FRANGOSUL CX 3,00 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000992;QUEIJO TIPO GORGONZOLA DALLORA;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001009;PONTA QUEIJO MUSSARELA CENTRO OESTE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001010;BATATA CONG PRIME FRIES PT 2,50 KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001017;CREME DE LEITE FRIMESA UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001021;PRESUNTO DE FRANGO AURORA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001031;BANANINHA BOV  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001036;PONTA DE LANCHE MISTO DALIA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001039;CALDO DE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001041;CALDO DE LEGUMES SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001042;CREME DE CEBOLA SC TECNUTRI 10X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001043;MOLHO ESCURO DEMIGLACE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001044;PURE DE BATATA SC TECNUTRI 10X800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001045;MILANESA SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001046;PROTEINA DE SOJA CARNE SC TECNUTRY 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001048;MAIONESE FUGINI SC 36X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001051;MOLHO SHOYO FUGINI 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001052;CHAMPIGNON INTEIRO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001053;CHAMPIGNON FATIADO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001055;MOLHO DE PIZZA FUGINI SC 32X340G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001056;EXTRATO DE TOMATE FUGINI SC 32X340G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001061;PRATO (QUENTINHA)  MANUAL  P9 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001062;BANDEJA RETANGULA 100X500G B6 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001068;CORACAO BOVINO PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001070;PROTEINA DE SOJA FRANGO  SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001073;PONTA QUEIJO MUSSARELA KECO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001075;DUETO QUERO LT 6X2KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001077;LOMBO COZIDO DEFUMADO NOBRE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001080;PAPEL HIGIENICO SNOW C/4UN 30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001083;CUPIM B CONG PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001087;ACHOCOLATADO BEB LACTEA  27X200ML CCGL;;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001088;LEITE EM PO INTEGRAL 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001090;CATCHUP FUGINI SC 32X340G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001092;MACARRAO ESPAGUETE FINO GOSTOSO 10X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001093;MOSTARDA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001094;MOLHO INGLES CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001095;CATCHUP CEPERA 24X210G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001096;MOLHO DE ALHO CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001097;MOSTARDA ESCURA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001100;MOLHO DE ALHO CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001101;MOSTARDA CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001102;CATCHUP SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001103;MOLHO BARBECUE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001104;MAIONESE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001105;MOSTARDA SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001112;ACHOCOLATADO BEB LACTEA  12X1LT VALEDOURADO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001114;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001119;QUEIJO PRATO PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001122;QUEIJO RALADO SELETI 1KG;;;PCT;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001124;HAMBURGUER MISTO BONUTT CX 2,58 KGS 46UN;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001126;CARNE MOIDA CONG BOI BRASIL PT 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001127;MACARRAO INST TOMATE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001128;MACARRAO INST LEGUMES QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001129;MACARRAO INST CARNE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001130;MACARRAO INST GALINHA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001131;MACARRAO INST GALINHA CAIPIRA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001132;KISUCO LARANJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001133;KISUCO UVA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001134;KISUCO MORANGO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001135;KISUCO MARACUJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001136;KISUCO ABACAXI CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001137;KISUCO LIMAO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001139;MORTADELA FRANGO PALMALI P� 3KG;;;PC;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001141;PONTA DE LANCHE FRANGO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001143;ACHOCOLATADO EM PO SC ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001144;DOCE DE LEITE ITALAC 24X400G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001145;PROTEINA DE SOJA FRANGO SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001146;PROTEINA DE SOJA CARNE SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001147;FILE DE PEIXE MERLUZA CONGELADO CX C/ +/- 12KG;;;KG;00;;;03;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001148;FRANGO FESTIVO TEMPERADO PIONEIRO;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001149;PICANHA B BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001151;QUEIJO MUSSARELA PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001152;CUPIM CONG MARFRIG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001237;MOLHO DE ALHO TAMBAU 12/750ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001508;LING DE CHURRASCO CONG LAR PT 1KG;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001540;FARINHA DE TRIGO S/FERMENTO PURO SABOR 10X1KG;;;FRD;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001242;PAPEL HIGIENICO FAMILIAR NEUTRO 4X30M;;;UN;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001448;AZEITONAS VERDE S/C INTEIRA LA VIOLETERA BALDE 4X1,80KG;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001504;OSSO DO PATINHO BOVINO FRIGOL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001116;LEITE UHT DESNATADO VALEDOURADO 12X1LT;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001164;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X1LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001165;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X2LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001238;MOLHO DE PIMENTA EXTRA PICANTE 12/750ML TAMBAU;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001461;FILE DE PEITO CONG DANIELE CX 18KG;;;CX;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001583;EXTRATO DE TOMATE FUGINI SC 36X190G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001209;LEITE DE COCO TAMBAU 24X200ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001499;MOLHO DE ALHO TAMBAU 24X150ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001546;GUARDANAPO 18X20CM ECONOMIC FD48X50;;;FRD;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001602;KIT MOLHO DE PIMENTA ESPECIAIS DA ROCA 4X60ML;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001610;AZEITE OLIVA EXTRA VIRGEM BIONDO 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001611;OLEO COMPOSTO SOJA E OLIVA TRADICAO VD 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001613;OLEO COMPOSTO SOJA E OLIVA BARCELONA 24X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001614;OLEO COMPOSTO SOJA E OLIVA TRADI��O 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001615;AZEITE OLIVA EXTRA VIRGEM TRADI��O VD 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001618;AZEITE OLIVA EXTRA VIRGEM TRADI��O GALAO 4X5,01LT;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001621;AZEITE OLIVA EXTRA VIRGEM BARCELONA VIT VD 12X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001559;QUEIJO MANTEIGA MISTURADO PC +/- 3KG STA CLARA;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001521;CONTRA FILE PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001574;PRATO RASO DESC 17,5CM COPOBRAS PR018 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001576;PRATO RASO DESC 15CM COPOBRAS PR015 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001578;PRATO FUNDO DESC 12CM COPOBRAS PRF012 100X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001410;QUEIJO MUSSARELA DA VACA LIGHT 500G;;;KG;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001166;TAMPICO - BEB MISTA FRUTAS CITRICAS 12X330ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001430;LEITE EM PO INTEGRAL INSTANTANEO 800 G LA SERENISSIMA;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001589;MOLHO DE PIMENTA INVOCADO DA ROCA 60ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001217;MARGARINA QUALY C/SAL  500G;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001627;MAIONESE FUGINI SC 36X200G;;;BD;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001318;QUEIJO MANTEIGA RAPA PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001537;FILE DE COSTELA PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001470;MAIONESE FUGINI SACHE 18X500G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001541;FILE DE PEIXE POLACA DO ALASCA CONG;;;KG;00;;;03;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001252;CATCHUP HEINZ 16/397G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001208;LEITE DE COCO TAMBAU 12X500ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001584;MOLHO STROGONOFF FUGINI SC 32X300G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001603;SALAME FATIADO SEARA - 100GR;;;UN;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001529;COXAO MOLE RESF LKJ;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001645;FEIJAO PRETO BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001646;FEIJAO CARIOCA BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001224;PONTA DE PRESUNTO DE PERU PERDIGAO KG;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001445;EMPANADO DE FRANGO SEARA CX 72X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001657;BATATA CONG MAZID PT 6X2 KG;;;PT;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001693;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001694;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001879;BACON FATIADO EXTRA LOMBO DALIA KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001599;CARRE SUINO CONG DALIA;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001699;CHOCOLATE BARRA BLEND HARALD 10X1.050KG;;;UN;00;;;18;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002086;LING DE FRANGO CONG LAR PT 15X1KG;;;KG;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001754;LANCHE DE FGO LEBOM (BRUSTER) P� +/- 3,50 KG;;;PC;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002091;COXA S/COXA CONG IND LAR CX C/20 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001570;SALSICHA MISTA LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001569;SALSICHA DE FGO LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001590;PEITO DE PERU DEFUMADO SEARA;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001465;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002201;OLEO DE PALMA CRISTALIZADO FLOR DE PALMA BD 15KG;;;BD;00;;;15;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002202;OLEO DE PALMA CRISTALIZADO FLOR DE PALMA BD 03KG;;;BD;00;;;15;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001721;MOLHO TRADICIONAL FUGINI SACHE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001747;DUETO FUGINI SC 32 X 200G;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001431;PAPEL TOALHA BRANCO ABSOLUTO PC 02 ROLOS;;;UN;00;;;48;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001503;PAPEL TOALHA ABSOLUTO DECOR PC 02 ROLOS;;;UN;00;;;48;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001794;REQUEIJAO AMARILIS SACHE 8X1.8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002213;REQUEIJAO CHEDDAR AMARILIS 1,2 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002006;REQUEIJAO CHEDDAR TAINA 1,8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001248;CHOCOLATE 1,05KG SWEET LINE DALLORA;;;UN;00;;;19;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001351;MILHO GOIAS VERDE/BONARE LT 24X200G;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002146;MOLHO SAKURA TRADICIONAL 12X1000ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000927;MOLHO TRADICIONAL BONARE SACHE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001533;DUETO GOIAS VERDE/BONARE LT 6X2KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001350;MILHO VERDEGOIAS VERDE/BONARE LT 6X2KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001222;MOLHO TRACIDIONAL BONARE SC 24X340G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001474;FIGADO DE FGO  BAND UNIAVES CX C 12 KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001732;FILE DE PEITO CONG UNIAVES CX C/20 KG;;;CX;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001820;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000885;PONTA QUEIJO MUSSARELA PALAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000975;LING DE FRANGO CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000977;LING DE FRANGO CONG SATIARE PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000978;LING CALAB TRAD SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000979;LING CALAB RETA SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000993;CAPA DE FILE XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000994;PALETA BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000995;PEITO BOVINO XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001012;FILE DE PEITO VAREJO UNIAVES PT;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001030;LINGUA BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001072;QUEIJO MUSSARELA FATIADO KECO;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001157;FRALDAO BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001162;FRANGO CONG PIONEIRO CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001171;QUEIJO MUSSARELA FATIADO SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001174;PONTA QUEIJO MUSSARELA SELETTO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001178;MACARRAO TALHARIM VITAMASSA 20X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001179;LOMBO CANADENSE DEFUMADO SANTIARE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001180;COSTELA SUINA CONG SATIARE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001183;CREME CONFEITEIRO 1KG RICCA;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001199;DOCE BANANADA C/CANELA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001200;DOCE GOIABADA C/AMENDOIM TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001201;DOCE GOIABADA C/CASTANHA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001202;DOCE GOIABADA C/COCO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001203;COCO RALADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001204;COCO RALADO UMIDO E ADOCADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001205;DOCE CAJU CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001206;DOCE GOIABADA CRISTALIZADA TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001207;DOCE GOIABADA CASCAO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001210;EXTRATO DE TOMATE TAMBAU 8/1,02KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001211;INGREDIENTE P/FEIJOADA SEARA 1KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001213;COXA S/COXA CONG IND FRIATTO CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001218;MARGARINA SOFITELI 75LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001220;FILE MIGNON SUINO CONG SADIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001221;MARGARINA DELINE C/SAL 500G;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001223;PRESUNTO DE PERU FATIADO  PERDIGAO KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001227;MAIONESE DUSUL BAG 12 X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001232;CATCHUP SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001233;MOSTARDA SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001234;CHOCOLATE EM PO SOLUVEL ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001235;QUEIJO RALADO ITALAC 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001239;DOCE BANANADA CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001240;DOCE GOIABA CREMOSO TAMBAU 24X280G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001257;MAIONESE HEINZ 16/397G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001265;COXA S/COXA CONG IND SOMAVE CX C/18 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001269;CHOCOLATE BARRA AO LEITE MELKEN 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001302;PRESUNTO COZIDO REZENDE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001303;FILE MIGNON SUINO CONG SEARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001304;MOLHO DE PIMENTA SRIRACHA CEPERA 12/270ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001305;GOMA DE MANDIOCA DUNORDESTE 800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001307;BATATA CONG RAPIPAP PT 24X400G;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001308;CREME DE LEITE LEITBOM UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001311;ERVILHA VERDE CONG GELCAMPO 300G;;;PT;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001315;QUEIJO MANTEIGA TIPO 1 PC +/- 3G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001317;QUEIJO MANTEIGA TIPO 1 PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001320;BANHA 450G FRIMESA;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001327;CANUDO MILK SHAKE SACHE 25CM  30/100;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001330;PAPEL HIGIENICO RESERVA PREMIUM 8X300MT;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001336;PAPEL TOALHA ECONOMIC 6X150M DE ROLO;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001353;MOLHO BARBECUE FUGINI SC 28X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001360;CHAMPIGNON FATIADO BONARE SC 20X100G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001362;CHAMPIGNON FATIADO BONARE 6X1,010KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001368;PT104 - QUENT ISOPOR C/TAMPA 187X72MM 1100MLX100UN;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001380;MORTADELA TIPO BOLOGNA FATIADA 200G FRIMESA;;;UN;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001385;BATATA MANIA ORIGINAL 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001388;BATATA MANIA FRANGO GRELHADO 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001394;PEITO DE FRANGO VAREJO AVIVAR;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001401;ALHO CHINES N� 6 CX 10KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001414;QUEIJO PARMESAO DA VACA PE�A;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001432;QUEIJO MUSSARELA FATIADO DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001433;PONTA QUEIJO MUSSARELA DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001437;MOLHO QUATRO QUEIJOS FUGINI SC 32X300G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001444;BATATA CONG MCCAIN PT 5X2KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001446;CATCHUP HEINZ 8/2KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001449;MIX DE AMENDOINS LA VIOLETERA 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001453;REQUEIJAO DALORA SABOR PROVOLONE 1,05KG;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001458;CONTRA FILE PORCIONADO FRIGOL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001468;QUEIJO MUSSARELA FATIADO NATVILLE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001483;PICANHA FATIADA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001489;PEITO DE FRANGO VAREJO FRIALL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001500;MOLHO DE PIMENTA TAMBAU 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001524;COPO DESCARTAVEL TRANSP 500ML COPOBRAS;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001543;LEITE EM PO DESNATADO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001544;LEITE EM PO INSTANTANEO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001564;CRL003 - BANDEJA EPS 235X180X16 MM 100UN;;;FRD;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001565;ESPONJA ESFRELUX PT C/4UN;;;PT;00;;;68;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001566;MOLHO SAKURA AJI-NO-SHOYO 12X1000ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001568;MOLHO SAKURA AJI-NO-SHOYO 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001571;RODO PLASTICO STA MARIA 40CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001572;VASSOURA PHENIX STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001573;VASSOURA VARRY STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001582;PRATO RASO DESC 23CM COPOBRAS PR023 50X10;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001588;AZEITE DE DENDE DA ROCA 06X200ML;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001593;SAL GROSSO BBQ ORIGINAL DA ROCA 500G;;;UN;00;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001644;BOBINA PVC 300X1000MT BRASILSUL;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001653;CHOCOLATE EM PO 50% CACAU TECNUTRI 10X1.010KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001674;RODO PLASTICO STA MARIA 60CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001678;FUMACA LIQUINA DA ROCA 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001679;MARINADA SELECT COM ERVAS FINAS 400ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001335;GUARDANAPO 30X30CM ESSENCIAL QUALITY FD 20X50;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001663;OSSOS CONGELADO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001664;REQUEIJAO CHEDDAR ROSELI SC 24X400G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001701;GARFO SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001702;COLHER SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001714;MOUSSE CHOCOLATE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001715;MOUSSE MORANGO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001716;MOUSSE MARACUJA SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001717;MOUSSE LIMAO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001728;MAMINHA BOV RESF BOI FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001753;LEITE CONDENSADO (GOURMET) 27X395 G ITALAC;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001767;ACEM BOVINO PORCIONADO FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001768;ARANHA CONG LKJ;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001800;CURAU COM LEITE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001806;DOCE DE LEITE ITALAC 24X350G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001808;MACARRAO INTEGRAL ESPAGUETE URBANO 24X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001810;ARROZ PARA SUSHI URBANO 6X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001811;ARROZ BRANCO TIO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001812;ARROZ PARBORIZADO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001813;ARROZ INTEGRAL PARBORIZADO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001777;AZEITONA VERDE SEM CAROCO CEPERA SC 18X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001814;BOBINA FUNDO ESTRELA ULTRAPLAS GG 38X55 6X300UN;;;UN;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001816;SACO PARA LIXO PRETO ULTRAPLAST 100LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001817;SACO PARA LIXO PRETO ULTRAPLAST 15LT 50PTX20UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001818;SACO PARA LIXO PRETO ULTRAPLAST 200LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001819;SACO PARA LIXO PRETO ULTRAPLAST 30LT 50PTX10UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001738;MOLHO BARBECUE TAMBAU 12X380G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001821;AZEITONA VERDE C/CAROCO TAMBAU SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001822;AZEITONA VERDE S/CAROCO TAMBAU SC 24X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001824;SALSICHA DE FRANGO COPACOL PT 3 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001534;LANCHE DE FGO WILSON P� 3,75 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001830;EMPANADO DE FRANGO COPACOL CX C/60X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001831;MOLHO P/SALADA ITALIANO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001832;MOLHO P/SALADA PARMESAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001833;MOLHO P/SALADA LIMAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001834;MOLHO MANJERICAO QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001835;MOLHO P/SALADA ROSE KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001836;SAL ROSA HIMALAIA MOIDO 12X500G;;;UN;00;;;25;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001837;BATATA PALHA KISABOR FD 20X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001838;TRIGO PARA KIBE KISABOR 24X500G;;;UN;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001840;TAPIOCA KISABOR 12X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001841;FAROFA PRONTA TEMPERADA KISABOR 24X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001842;FAROFA PRONTA SABOR BACON KISABOR 12X250G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001843;TRIGO PARA KIBE KISABOR 3X5KG;;;PT;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001776;AZEITONA VERDE INTEIRA CEPERA SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001778;CHAMPIGNON INTEIRO CEPERA SC 24X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001779;MAIONESE CEBOLA CARAMELIZADA CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001780;MAIONESE ALHO CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001846;VINAGRE FRUTA MACA CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001847;VINAGRE VINHO TINTO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001848;VINAGRE BALSAMICO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001849;MAIONESE CHEDDAR CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001787;COXA BAND CONG DALIA 18X700G;;;UN;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001789;FILE DE PEITO BAND DALIA 18X700G;;;UN;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001253;MOLHO TRADICIONAL QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001260;MOSTARDA SACHET HEINZ CX 192X5G;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001845;AZEITONA RECHEADA C/PIMENTAO CEPERA VD 12X380G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001856;MOSTARDA SACHET QUERO 176X7G CX;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001775;CEREJA EM CALDA CEPERA 24X80G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001725;RECHEIO FORNEAVEL AO LEITE HARALD 8X1.050KG;;;UN;00;;;18;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002365;MACAXEIRA DESCASCADA NORDESTE FRUIT 20X1KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002394;BOBINA FUNDO ESTRELA ULTRAPLAS M 32X45 6X300UN;;;UN;00;;;39;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001749;MAIONESE SACHET TAMBAU CX 192X7G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001297;HAMBURGUER PICANHA AURORA GRANEL 36X90G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001877;LING TOSCANA SEARA PT 700G;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002363;PETISCO DE FRANGO TEMPERADO COPACOL 16X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002436;CATCHUP SACHET QUERO 176X7G CX;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000985;MAIONESE QUERO TP 24/270G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002348;QUEIJO MUSSARELA MAZID  KG;;;KG;00;;;04;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002147;MOLHO SAKURA AJI-NO-SHOYO 150ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002148;MOLHO SAKURA TRADICIONAL 150ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001405;QUEIJO PARMESAO RALADO FUGINI 25X40G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001406;QUEIJO PARMESAO EM TIRAS FUGINI 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001713;MILANESA PANKO SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001720;AZEITONA VERDE INTEIRA FUGINI SC 24X150G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001758;REQUEIJAO TRADICIONAL FRIMESA 12X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001866;MOLHO STROGONOFF TECNUTRI  SC 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001867;BACON MANTA SAUDALI KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001869;LING DE FRANGO EVA CONG LAR PT 60X250G;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001872;FILE DA COSTELA PORCIONADO BONUTT(BIFE DE ANCHO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001873;CONTRA FILE PORCIONADO BONUTT(BIFE CHORIZO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001875;CONTRA FILE RESF BONUTT;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001876;PEITO BOVINO PORCIONADO  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001781;CHAMPIGNON FATIADO CEPERA SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001742;FILE DE PEITO CONG RARA CX C/20 KG;;;CX;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000939;SALSICHA MISTA HOT DOG  PERDIGAO  PT 2,80 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001748;MILHO VERDE FUGINI SC 32X200G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002249;FARINHA DE TRIGO S/FERMENTO FINNA PAPEL 5X5KG;;;PT;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001466;FARINHA DE TRIGO S/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002372;BATATA CONG BEM BRASIL PT 7X2 KG;;;PT;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002061;FILE DE PEITO DE GALINHA CONG SOMAVE 18 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001661;LING DE FRANGO SADIA PT 800G;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002243;REQUEIJAO CHEDDAR ROSELI SC 24X400G;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002244;REQUEIJAO TRADICIONAL ROSELI SC 24X400G;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002245;REQUEIJAO CHEDDAR REKEMINAS SC 12X1,20 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002246;REQUEIJAO TRADICIONAL SC 8X1,80 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002247;REQUEIJAO TRADICIONAL MILKPIZZA SC 10X1,50 KG;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002322;MOLHO HOT DOG BONARE SC 24X340G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002361;COXA S/COXA S/OSSO TEMPERADO COPACOL 16X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002362;COSTELINHA DE FRANGO TEMPERADO COPACOL 16X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002457;BATATA CONG LAR PT 5X2 KG;;;PT;00;;;20;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002351;LING DE FRANGO FINA CONG LAR PT 15X1KG;;;KG;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002282;BATATA CONG QUALITY 10MM PT 6X2 KG;;;PT;00;;;20;;4;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002013;MOLHO PENEIRADO FUGINI SC 32X340G;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002302;MILHO VERDE CROCANTE A VAPOR FUGINI LT 24X170GR;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002338;DUETO A VAPOR FUGINI LT 24X170GR;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001960;LING CALAB TRAD FRIMESA PT 2 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002344;REQUEIJAO LIGHT FRIMESA 12X200G;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002337;REQUEIJAO TRADICIONAL FRIMESA 12X200G;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002319;PICANHA SUINA TEMP SAUDALI;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002446;BACON MANTA SAUDALI KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002236;INGREDIENTE P/FEIJOADA SAUDALI 8X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002241;BACON FATIADO SAUDALI 6X1KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002237;LING CALAB TRAD SAUDALI PT 2,5 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002234;LING CHURRASCO SAUDALI PT 12X1KG;;;KG;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002458;LING SUINA SAUDALI PT 4X2,5KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001886;PEITO DE FRANGO CONG COPACOL  CX 17 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002133;PEITO DE FRANGO CONG LAR  CX 18 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002353;COXINHA DA ASA TEMP LAR CX 18 KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002459;COXAO MOLE RESF SAO FRANCISCO;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002460;LAGARTO BOV RESF SAO FRANCISCO;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002461;PATINHO RESF SAO FRANCISCO;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002462;CORACAO BOVINO SAO FRANCISCO;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002463;CAPA DE FILE SAO FRANCISCO;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001654;DUETO QUERO LT 6X2KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;001392;MILHO VERDE QUERO LT 6X2KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002464;MAIONESE SACHET QUERO 176X7G CX;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002042;LING TOSCANA EXCELENCIA PT 1KG;;;KG;00;;;16;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002041;LING TOSCANA EXCELENCIA PT 5KG;;;PT;00;;;16;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002466;BACON MANTA EXCELENCIA KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002467;BACON RETALHO EXCELENCIA KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;002096;LING CALAB TRADICIONAL EXCELENCIA 6X2,50 KG;;;PT;00;;;16;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;2;
+;0200;000021;LANCHE DE FGO LEBOM PC 3,5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000099;ACEM RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000005;BATATA MCCAIN KG;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000039;SOBRECOXA BDJ PIONEIRO CX 12KG;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000041;EXTRATO DE TOMATE TP 1,080KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000036;QUEIJO MANTEIGA KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000038;QUEIJO PROVOLONE PALAC 500GR;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000032;MOSTARDA TAMBAU 800GR;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000014;ERVILHA LT 200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000049;PICANHA SUINA CONG TEMPERADA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000051;ERVILHA QUERO LT 2 KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000029;MILHO VERDE QUERO LT 24X200GR;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000065;MOLHO TRADICIONAL QUERO SC 12/1020KG;3789610250438;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000068;SALSICHA DE FGO CONG AVIVAR PT 5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000066;QUEIJO COALHO 1,85 KGS;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000077;LANCHE DE FGO PALMALI PC 3.5KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000080;MORTADELA FRANGO FRIATO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000072;MOLHO TOMATE TRAD POUCH 6/2KG;7896945401995;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000082;CORACAO CONG BAND P12;1789822806265;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000085;MILHO VERDE QUERO LT 2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000084;MOLHO SHOYU 12/750ML TAMBAU;7896945401704;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000088;PEITO DE FGO DANIELI CX17 KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000097;MILHO VERDE FUGINI SC 32X200G;7897517209025;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000104;ARANHA CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000105;CUPIM A CONG XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000101;COXAO MOLE RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000103;PATINHO RESFR XINGUARA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000111;MILHO VERDE FUGINI SACHET 2KG;7897517209322;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000134;MACARRAO DE LASANHA MAURICEA 10X500G;;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000139;CAPA DE FILE RESF BOI BRASIUL;7899782700436;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000137;CUPIM A CONG BOI BRASIL;7899782701211;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000142;PATINHO RESF BOI BRASIL;7899782702454;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000138;ARANHA CONG BOI BRASIL;7899782702942;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000145;ERVILHA SC FUGINI 32X200 GR;7897517209056;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000141;PALETA BOV RESF BOI BRASIL;7899782702324;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000144;PEITO CONG BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000153;COSTELA BOVINA SERRADA BOI BRASIL;7899782700917;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000152;LAGARTO BOV RESF BOI BRASIL;7899782701761;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000148;ERVILHA FUGINI SACHET 2KG;7897517209339;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000150;ACEM BOV RESF BOI BRASIL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000154;QUEIJO MUSSARELA IOGA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000155;CUPIM B CONG BOI BRASIL;7899782701266;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000157;PERU SEARA 4PCS 16,4KG CG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000159;MACARRAO ESPAGUETE MAURICEIA 20X500G;;;FD;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000163;EXTRATO DE TOMATE QUERO LT 4/4000G;1789610250240;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000170;AZEITONAS VERDES INT FUGINI SC 1,05KG;1789751720824;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000183;PICANHA SUINA TEMP FRIMESA;1789627594176;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000182;CREME DE GOIABA TAMBAU POUCH 6/2,5KG;7896945402046;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000266;ACEM BOVINO FRIGOL;7898386720185;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000270;LAGARTO BOVINO FRIGOL;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000357;FRALDAO BOV RESF BOI BRASIL;7899782701662;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000359;CORACAO DE FRANGO BAND UNIAVES CX C/12KG;1789893870681;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000378;COXAO DURO FRIGOL;7898386720079;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000385;CATCHUP TRADICIONAL QUERO TP 24/300G;5789610250287;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000386;MAIONESE QUERO TP 24/250G;5789610250940;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000418;MOLHO TOM BONARE SACHE 6X2KG HOT DOG;1789890515381;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000504;CATCHUP BALDE DUSUL 3.30 KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000505;MOSTARDA BALDE DUSUL 3,20KG;;;BD;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000579;MACARRAO LINGUINE VITARELLA  20X500G;7896213002732;;FD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000582;CABO FLEX LUZZANO 1,5MM MT;;;UND;00;;;85;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000585;CANALETA BRANCA ADESIVA;;;UND;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000586;FITA ISOLANTE 20MT ALUMBRA;;;UND;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000588;PARF.MAD.SEXT.1/4*50 UN.;;;UND;00;;;73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000589;PARF.MAD.SEXT.1/4*70MM;;;UND;00;;;73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000597;HAMBURGUER SADIA CX 2,016KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000601;COLHER STRAWPLAST CRISTAL GRD.C/20X50;7898202616036;;PCT;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000602;MACARRAO TALHARIM MAURICEA 20X500G;7896343088460;;PCT;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000616;REGUA DE ALUMINIO 30CM MP 2002 MASTERPRI;;;UN;00;;;90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000621;MAIONESE HEINZ PET 8 X 215G;2789610259404;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000622;QUEIJO MUSSARELA KECO;7898932612087;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000624;MOLHO TOM BONARE SC 24X340G TRADICIONAL;1789890515363;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000625;MOLHO TOM BONARE SC 24X340G MANJERICAO;1789890515367;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000628;EXTRATO TOM BONARE SC 32X340G;6789890515371;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000629;ACHOCOLATADO BEB LACTEA  24X200ML NILZA;7898080641397;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000633;SUPORTE ESCOVA 11624;;;UN;00;;;85;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000636;PROGRAMADOR DIARIO/SEMANAL PDS02 MG 110/;;;PC;00;;;91;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000637;COROA C-PROT XLS 125 56 D AUDAX;;;PC;00;;;84;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000659;LP CIF LIMPA VIDROS 500ML PULV;7891150025356;;UN;00;;;34;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000660;DESINFETANTE GUARANI 2L LAVANDA;7897274410078;;UN;00;;;38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000686;(2120180029) CONTRA PINO FINO 1/8X2 ();;;PC;00;;;73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000734;HAMBURGUER FRANGO PERDIGAO CX2,016K;7891515605780;;CX;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000759;(FD101) SAPATA FREIO TRASEIRA COMPLETO (;;;PC;00;;;87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000781;FRANGO CONG UNIAVES CX 20KG;9789893870800;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000803;CAPA DE FILE BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000801;PALETA BOV RESFR PRAVITTA;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000812;COXA S/COXA VAREJO BIG FANGO;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;99023;ILHAS PARA CONGELADOS FECHADA NICFD 1850T;;;UN;08;;;84;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;999999;MATERIAL DE CONSUMO/COMBUSTIVEL;;;UND;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000840;MILHO VERDE QUERO LT 6X2KG;;;UN;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;1430;PRESUNTO DE PERU PERDIGAO KG;;;KG;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;1479;SALSICHA MISTA HOT DOG  PERDIGAO  PT 5;;;PT;00;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000857;ACHOCOLATADO EM PO SC ITALAC 24X400G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000872;MOSTARDA SACHET AUREA 189X6G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000873;EMPANADO NOBRE CX C/3 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000883;CHOCOLATE BARRA BRANCO HARALD 10X1.050KG;;;UN;00;;;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000886;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000917;FRALDAO BOV RESF PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000920;CHOCOLATE BARRA MEIO AMARGO HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000924;PAPEL TOALHA ABSOLUTO DECOR PC 02 ROLOS;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000925;CATCHUP TAMBAU 12X830G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000926;BANANINHA BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000928;PICANHA A BOVINA MAFRINORTE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000934;LING DE FRANGO FINA FRIMESA PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000935;BIFE DO VAZIO (PACU) BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000942;MANTEIGA C/SAL PALAC 200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000956;MANTEIGA C/SAL PALAC 500G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000961;FARINHA DE TRIGO S/FERMENTO PURO SABOR 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000965;COSTELA SUINA CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000969;MARGARINA PURO SABOR 70LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000970;MARGARINA PURO SABOR 70LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000971;MARGARINA MEDALHA DE OURO 80LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000972;MARGARINA MEDALHA DE OURO 80LIP 3KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000982;LING CALAB TRAD LEBOM PT 2,50 KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001015;PONTA DE LANCHE FRANGO WILSON;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001019;PERNIL SUINO C/OSSO S/PELE CONG DALIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001023;GUARDANAPO 14X14CM POP PLUS BRANCO FD COM 20X200;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001034;COXA S/COXA CONG IND AVIVAR CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001037;AMACIANTE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001047;GALINHA MEDIA CONG PALMALI CX 18KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001054;FEIJAO PRETO FUGINI SC 32X250G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001060;PRATO (QUENTINHA)  MANUAL  P8 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001076;DUETO QUERO LT 24 X 200G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001084;BACON FATIADO SATIARE 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001098;CATCHUP CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001106;CATCHUP CEPERA BD 4X3,5KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001111;ACHOCOLATADO BEB LACTEA  27X200ML DOURADINHO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001115;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001120;CHOCOLATE BARRA BLEND HARALD 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001123;MAMINHA BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001138;LEITE CONDENSADO VALEDOURADO 24X395G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001140;LANCHE DE FGO FATIADO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001150;MOLHO BARBECUE CEPERA 24X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001154;COXA S/COXA CONG IND UNIAVES CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001155;PEITO DE FRANGO CONG UNIAVES CX 20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001167;QUEIJO MUSSARELA SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001172;GALINHA MEDIA CONG PALMALI CX 18KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001177;FRANGO CONG UNIAVES CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001219;LING DE FRANGO CONG SADIA PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001225;QUEIJO MUSSARELA MOLFINO  KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001228;MAIONESE DUSUL BAG 6 X2,50 KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001241;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001243;PAPEL HIGIENICO FAMILIAR PERFUMADO 4X30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001276;BEIJINHO FESTA AUREA 950G 1X6;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000858;ACHOCOLATADO BEB LACTEA  24X200ML ITALAC;;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000869;COXA S/COXA GALINHA MATRIZ  SOMAVE CX 20KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000937;CORACAO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000976;LING SUINA CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000989;EMPANADO DE FRANGO FRANGOSUL CX 3,00 KG;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000992;QUEIJO TIPO GORGONZOLA DALLORA;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001009;PONTA QUEIJO MUSSARELA CENTRO OESTE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001010;BATATA CONG PRIME FRIES PT 2,50 KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001017;CREME DE LEITE FRIMESA UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001021;PRESUNTO DE FRANGO AURORA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001031;BANANINHA BOV  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001036;PONTA DE LANCHE MISTO DALIA;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001039;CALDO DE CARNE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001041;CALDO DE LEGUMES SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001042;CREME DE CEBOLA SC TECNUTRI 10X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001043;MOLHO ESCURO DEMIGLACE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001044;PURE DE BATATA SC TECNUTRI 10X800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001045;MILANESA SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001046;PROTEINA DE SOJA CARNE SC TECNUTRY 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001048;MAIONESE FUGINI SC 36X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001051;MOLHO SHOYO FUGINI 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001052;CHAMPIGNON INTEIRO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001053;CHAMPIGNON FATIADO FUGINI SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001056;EXTRATO DE TOMATE FUGINI SC 32X340G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001061;PRATO (QUENTINHA)  MANUAL  P9 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001062;BANDEJA RETANGULA 100X500G B6 THERMOPRAT;;;CX;00;;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001068;CORACAO BOVINO PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001070;PROTEINA DE SOJA FRANGO  SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001073;PONTA QUEIJO MUSSARELA KECO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001075;DUETO QUERO LT 6X2KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001077;LOMBO COZIDO DEFUMADO NOBRE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001080;PAPEL HIGIENICO SNOW C/4UN 30M;;;UN;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001083;CUPIM B CONG PRAVITTA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001087;ACHOCOLATADO BEB LACTEA  27X200ML CCGL;;;UN;00;;;22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001088;LEITE EM PO INTEGRAL 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001090;CATCHUP FUGINI SC 32X340G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001092;MACARRAO ESPAGUETE FINO GOSTOSO 10X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001093;MOSTARDA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001094;MOLHO INGLES CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001095;CATCHUP CEPERA 24X210G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001096;MOLHO DE ALHO CEPERA 24X150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001097;MOSTARDA ESCURA CEPERA 24X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001100;MOLHO DE ALHO CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001101;MOSTARDA CEPERA 12X1,01KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001102;CATCHUP SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001103;MOLHO BARBECUE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001104;MAIONESE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001105;MOSTARDA SACHET CEPERA CX 175X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001112;ACHOCOLATADO BEB LACTEA  12X1LT VALEDOURADO;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001114;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001119;QUEIJO PRATO PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001122;QUEIJO RALADO SELETI 1KG;;;PCT;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001124;HAMBURGUER MISTO BONUTT CX 2,58 KGS 46UN;;;CX;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001126;CARNE MOIDA CONG BOI BRASIL PT 2 KG;;;PT;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001127;MACARRAO INST TOMATE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001128;MACARRAO INST LEGUMES QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001129;MACARRAO INST CARNE QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001130;MACARRAO INST GALINHA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001131;MACARRAO INST GALINHA CAIPIRA QUERO 50X85G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001132;KISUCO LARANJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001133;KISUCO UVA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001134;KISUCO MORANGO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001135;KISUCO MARACUJA CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001136;KISUCO ABACAXI CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001137;KISUCO LIMAO CX 15X25G;;;CXT;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001139;MORTADELA FRANGO PALMALI P� 3KG;;;PC;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001141;PONTA DE LANCHE FRANGO PALMALI;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001143;ACHOCOLATADO EM PO SC ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001144;DOCE DE LEITE ITALAC 24X400G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001145;PROTEINA DE SOJA FRANGO SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001146;PROTEINA DE SOJA CARNE SUPRESOY 20X400G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001147;FILE DE PEIXE MERLUZA CONGELADO CX C/ +/- 12KG;;;KG;00;;;03;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001148;FRANGO FESTIVO TEMPERADO PIONEIRO;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001149;PICANHA B BOVINA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001151;QUEIJO MUSSARELA PALAC 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001152;CUPIM CONG MARFRIG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001237;MOLHO DE ALHO TAMBAU 12/750ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001508;LING DE CHURRASCO CONG LAR PT 1KG;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001242;PAPEL HIGIENICO FAMILIAR NEUTRO 4X30M;;;UN;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001504;OSSO DO PATINHO BOVINO FRIGOL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001116;LEITE UHT DESNATADO VALEDOURADO 12X1LT;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001164;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X1LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001165;TAMPICO - BEB MISTA FRUTAS CITRICAS 6X2LT;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001480;BANANINHA BOV  FRIGOL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001238;MOLHO DE PIMENTA EXTRA PICANTE 12/750ML TAMBAU;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001539;MARGARINA SINA 80LIP 15KG;;;BD;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001583;EXTRATO DE TOMATE FUGINI SC 36X190G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001209;LEITE DE COCO TAMBAU 24X200ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001546;GUARDANAPO 18X20CM ECONOMIC FD48X50;;;FRD;00;;;48;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001602;KIT MOLHO DE PIMENTA ESPECIAIS DA ROCA 4X60ML;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001610;AZEITE OLIVA EXTRA VIRGEM BIONDO 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001611;OLEO COMPOSTO SOJA E OLIVA TRADICAO VD 20X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001613;OLEO COMPOSTO SOJA E OLIVA BARCELONA 24X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001614;OLEO COMPOSTO SOJA E OLIVA TRADI��O 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001615;AZEITE OLIVA EXTRA VIRGEM TRADI��O VD 20X250ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001617;AZEITE OLIVA EXTRA VIRGEM TRADI��O LATA 24X200ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001618;AZEITE OLIVA EXTRA VIRGEM TRADI��O GALAO 4X5,01LT;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001621;AZEITE OLIVA EXTRA VIRGEM BARCELONA VIT VD 12X500ML;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001559;QUEIJO MANTEIGA MISTURADO PC +/- 3KG STA CLARA;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001521;CONTRA FILE PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001574;PRATO RASO DESC 17,5CM COPOBRAS PR018 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001576;PRATO RASO DESC 15CM COPOBRAS PR015 50X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001578;PRATO FUNDO DESC 12CM COPOBRAS PRF012 100X10;;;CX;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001410;QUEIJO MUSSARELA DA VACA LIGHT 500G;;;KG;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001166;TAMPICO - BEB MISTA FRUTAS CITRICAS 12X330ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001430;LEITE EM PO INTEGRAL INSTANTANEO 800 G LA SERENISSIMA;;;UN;00;;;04;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001589;MOLHO DE PIMENTA INVOCADO DA ROCA 60ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001217;MARGARINA QUALY C/SAL  500G;;;UN;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001623;OLEO DE PALMA CRISTALIZADO FLOR DE PALMA BD 03KG;;;BD;00;;;15;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001318;QUEIJO MANTEIGA RAPA PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001537;FILE DE COSTELA PORCIONADO BOI BRASIL;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001470;MAIONESE FUGINI SACHE 18X500G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001541;FILE DE PEIXE POLACA DO ALASCA CONG;;;KG;00;;;03;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001252;CATCHUP HEINZ 16/397G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001208;LEITE DE COCO TAMBAU 12X500ML;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001584;MOLHO STROGONOFF FUGINI SC 32X300G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001603;SALAME FATIADO SEARA - 100GR;;;UN;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001529;COXAO MOLE RESF LKJ;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001645;FEIJAO PRETO BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001646;FEIJAO CARIOCA BONARE LT 24X300G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001224;PONTA DE PRESUNTO DE PERU PERDIGAO KG;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001445;EMPANADO DE FRANGO SEARA CX 72X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001693;ACHOCOLATADO BEB LACTEA  27X200ML BOA VIDA;;;CX;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001694;LEITE UHT INTEGRAL VALEDOURADO 12X1LT;;;UN;00;;;04;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001879;BACON FATIADO EXTRA LOMBO DALIA KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001599;CARRE SUINO CONG DALIA;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001754;LANCHE DE FGO LEBOM (BRUSTER) P� +/- 3,50 KG;;;PC;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001570;SALSICHA MISTA LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001569;SALSICHA DE FGO LEBOM PT 4,00KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001590;PEITO DE PERU DEFUMADO SEARA;;;KG;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001465;FARINHA DE TRIGO C/FERMENTO FINNA 10X1KG;;;FRD;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001721;MOLHO TRADICIONAL FUGINI SACHE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001747;DUETO FUGINI SC 32 X 200G;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001794;REQUEIJAO AMARILIS SACHE 8X1.8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001968;REQUEIJAO QUEIJO & SABOR SACHE 10X1.5 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002006;REQUEIJAO CHEDDAR TAINA 1,8 KG;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001248;CHOCOLATE 1,05KG SWEET LINE DALLORA;;;UN;00;;;19;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001888;COXINHA DA ASA TEMP PIONEIRO CX 27X0,750G;;;PCT;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001351;MILHO GOIAS VERDE/BONARE LT 24X200G;;;CX;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001878;LING DE FRANGO SEARA PT 700G;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001420;PALMITO PICADO POTE DORO 300GR;;;UN;00;;;20;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001421;PALMITO RODELA POTE DORO 300GR;;;UN;00;;;20;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000927;MOLHO TRADICIONAL BONARE SACHE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001222;MOLHO TRACIDIONAL BONARE SC 24X340G;;;CX;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001474;FIGADO DE FGO  BAND UNIAVES CX C 12 KG;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001732;FILE DE PEITO CONG UNIAVES CX C/20 KG;;;CX;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001820;PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M;;;UN;00;;;48;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000885;PONTA QUEIJO MUSSARELA PALAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000975;LING DE FRANGO CONG SATIARE PT 5KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000977;LING DE FRANGO CONG SATIARE PT 1KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000978;LING CALAB TRAD SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000979;LING CALAB RETA SATIARE PT 2,50KG;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000993;CAPA DE FILE XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000994;PALETA BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000995;PEITO BOVINO XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001012;FILE DE PEITO VAREJO UNIAVES PT;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001030;LINGUA BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001072;QUEIJO MUSSARELA FATIADO KECO;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001157;FRALDAO BOV RESF XINGUARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001162;FRANGO CONG PIONEIRO CX 20KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001171;QUEIJO MUSSARELA FATIADO SELETO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001174;PONTA QUEIJO MUSSARELA SELETTO KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001178;MACARRAO TALHARIM VITAMASSA 20X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001179;LOMBO CANADENSE DEFUMADO SANTIARE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001180;COSTELA SUINA CONG SATIARE;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001183;CREME CONFEITEIRO 1KG RICCA;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001199;DOCE BANANADA C/CANELA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001200;DOCE GOIABADA C/AMENDOIM TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001201;DOCE GOIABADA C/CASTANHA TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001202;DOCE GOIABADA C/COCO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001203;COCO RALADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001204;COCO RALADO UMIDO E ADOCADO TAMBAU 48X50G;;;UN;00;;;08;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001205;DOCE CAJU CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001206;DOCE GOIABADA CRISTALIZADA TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001207;DOCE GOIABADA CASCAO TAMBAU 24X300G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001210;EXTRATO DE TOMATE TAMBAU 8/1,02KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001211;INGREDIENTE P/FEIJOADA SEARA 1KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001213;COXA S/COXA CONG IND FRIATTO CX C/20 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001218;MARGARINA SOFITELI 75LIP 15KG;;;BD;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001220;FILE MIGNON SUINO CONG SADIA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001221;MARGARINA DELINE C/SAL 500G;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001223;PRESUNTO DE PERU FATIADO  PERDIGAO KG;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001227;MAIONESE DUSUL BAG 12 X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001232;CATCHUP SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001233;MOSTARDA SACHET DUSUL 190X7G;;;CX;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001234;CHOCOLATE EM PO SOLUVEL ITALAC 24X200G;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001235;QUEIJO RALADO ITALAC 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001239;DOCE BANANADA CRISTALIZADO TAMBAU 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001240;DOCE GOIABA CREMOSO TAMBAU 24X280G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001257;MAIONESE HEINZ 16/397G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001265;COXA S/COXA CONG IND SOMAVE CX C/18 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001269;CHOCOLATE BARRA AO LEITE MELKEN 10X1.050KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001302;PRESUNTO COZIDO REZENDE;;;KG;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001303;FILE MIGNON SUINO CONG SEARA;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001304;MOLHO DE PIMENTA SRIRACHA CEPERA 12/270ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001305;GOMA DE MANDIOCA DUNORDESTE 800G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001307;BATATA CONG RAPIPAP PT 24X400G;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001308;CREME DE LEITE LEITBOM UHT 27X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001311;ERVILHA VERDE CONG GELCAMPO 300G;;;PT;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001315;QUEIJO MANTEIGA TIPO 1 PC +/- 3G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001317;QUEIJO MANTEIGA TIPO 1 PC +/- 500G;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001320;BANHA 450G FRIMESA;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001327;CANUDO MILK SHAKE SACHE 25CM  30/100;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001330;PAPEL HIGIENICO RESERVA PREMIUM 8X300MT;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001336;PAPEL TOALHA ECONOMIC 6X150M DE ROLO;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001353;MOLHO BARBECUE FUGINI SC 28X200G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001360;CHAMPIGNON FATIADO BONARE SC 20X100G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001362;CHAMPIGNON FATIADO BONARE 6X1,010KG;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001368;PT104 - QUENT ISOPOR C/TAMPA 187X72MM 1100MLX100UN;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001380;MORTADELA TIPO BOLOGNA FATIADA 200G FRIMESA;;;UN;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001385;BATATA MANIA ORIGINAL 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001388;BATATA MANIA FRANGO GRELHADO 40X45G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001394;PEITO DE FRANGO VAREJO AVIVAR;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001395;AMIDO DE MILHO CX ENJOY 24X500G;;;UN;00;;;11;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001401;ALHO CHINES N� 6 CX 10KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001414;QUEIJO PARMESAO DA VACA PE�A;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001432;QUEIJO MUSSARELA FATIADO DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001433;PONTA QUEIJO MUSSARELA DOMILAC KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001437;MOLHO QUATRO QUEIJOS FUGINI SC 32X300G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001444;BATATA CONG MCCAIN PT 5X2KG;;;PT;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001446;CATCHUP HEINZ 8/2KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001449;MIX DE AMENDOINS LA VIOLETERA 12X400G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001453;REQUEIJAO DALORA SABOR PROVOLONE 1,05KG;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001458;CONTRA FILE PORCIONADO FRIGOL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001468;QUEIJO MUSSARELA FATIADO NATVILLE KG;;;KG;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001483;PICANHA FATIADA BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001489;PEITO DE FRANGO VAREJO FRIALL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001524;COPO DESCARTAVEL TRANSP 500ML COPOBRAS;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001543;LEITE EM PO DESNATADO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001544;LEITE EM PO INSTANTANEO 200G CCGL;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001564;CRL003 - BANDEJA EPS 235X180X16 MM 100UN;;;FRD;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001565;ESPONJA ESFRELUX PT C/4UN;;;PT;00;;;68;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001566;MOLHO SAKURA AJI-NO-SHOYO 12X1000ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001568;MOLHO SAKURA AJI-NO-SHOYO 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001571;RODO PLASTICO STA MARIA 40CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001572;VASSOURA PHENIX STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001573;VASSOURA VARRY STA MARIA;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001582;PRATO RASO DESC 23CM COPOBRAS PR023 50X10;;;CX;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001588;AZEITE DE DENDE DA ROCA 06X200ML;;;UN;00;;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001593;SAL GROSSO BBQ ORIGINAL DA ROCA 500G;;;UN;00;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001598;SAL GROSSO BBQ COM ALHO DA ROCA 450G;;;UN;00;;;25;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001644;BOBINA PVC 300X1000MT BRASILSUL;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001653;CHOCOLATE EM PO 50% CACAU TECNUTRI 10X1.010KG;;;UN;00;;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001674;RODO PLASTICO STA MARIA 60CM;;;UN;00;;;96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001678;FUMACA LIQUINA DA ROCA 150ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001679;MARINADA SELECT COM ERVAS FINAS 400ML;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001335;GUARDANAPO 30X30CM ESSENCIAL QUALITY FD 20X50;;;FRD;00;;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001663;OSSOS CONGELADO BOVINO BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001664;REQUEIJAO CHEDDAR ROSELI SC 24X400G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001701;GARFO SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001702;COLHER SOBREMESA BRANCA 20X50 STRAWPLAST;;;UN;00;;;39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001714;MOUSSE CHOCOLATE SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001715;MOUSSE MORANGO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001716;MOUSSE MARACUJA SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001717;MOUSSE LIMAO SC TECNUTRI 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001728;MAMINHA BOV RESF BOI FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001753;LEITE CONDENSADO (GOURMET) 27X395 G ITALAC;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001767;ACEM BOVINO PORCIONADO FRIBEV;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001768;ARANHA CONG LKJ;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001800;CURAU COM LEITE SC TECNUTRI 10X1KG;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001806;DOCE DE LEITE ITALAC 24X350G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001808;MACARRAO INTEGRAL ESPAGUETE URBANO 24X500;;;FRD;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001810;ARROZ PARA SUSHI URBANO 6X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001811;ARROZ BRANCO TIO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001812;ARROZ PARBORIZADO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001813;ARROZ INTEGRAL PARBORIZADO URBANO 10X1KG;;;FRD;00;;;10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001687;PEITO DE FRANGO VAREJO GUIBOM;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001777;AZEITONA VERDE SEM CAROCO CEPERA SC 18X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001814;BOBINA FUNDO ESTRELA ULTRAPLAS GG 38X55 6X300UN;;;UN;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001816;SACO PARA LIXO PRETO ULTRAPLAST 100LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001817;SACO PARA LIXO PRETO ULTRAPLAST 15LT 50PTX20UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001818;SACO PARA LIXO PRETO ULTRAPLAST 200LT 50PTX5UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001819;SACO PARA LIXO PRETO ULTRAPLAST 30LT 50PTX10UN;;;PT;00;;;39;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001738;MOLHO BARBECUE TAMBAU 12X380G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001821;AZEITONA VERDE C/CAROCO TAMBAU SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001822;AZEITONA VERDE S/CAROCO TAMBAU SC 24X120G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001824;SALSICHA DE FRANGO COPACOL PT 3 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001830;EMPANADO DE FRANGO COPACOL CX C/60X100G;;;CX;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001831;MOLHO P/SALADA ITALIANO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001832;MOLHO P/SALADA PARMESAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001833;MOLHO P/SALADA LIMAO KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001834;MOLHO MANJERICAO QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001835;MOLHO P/SALADA ROSE KISABOR 12X240ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001836;SAL ROSA HIMALAIA MOIDO 12X500G;;;UN;00;;;25;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001837;BATATA PALHA KISABOR FD 20X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001838;TRIGO PARA KIBE KISABOR 24X500G;;;UN;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001840;TAPIOCA KISABOR 12X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001841;FAROFA PRONTA TEMPERADA KISABOR 24X500G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001842;FAROFA PRONTA SABOR BACON KISABOR 12X250G;;;UN;00;;;19;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001843;TRIGO PARA KIBE KISABOR 3X5KG;;;PT;00;;;11;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001776;AZEITONA VERDE INTEIRA CEPERA SC 24X100G;;;CX;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001778;CHAMPIGNON INTEIRO CEPERA SC 24X100G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001779;MAIONESE CEBOLA CARAMELIZADA CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001780;MAIONESE ALHO CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001846;VINAGRE FRUTA MACA CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001847;VINAGRE VINHO TINTO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001848;VINAGRE BALSAMICO CEPERA 12X270ML;;;UN;00;;;22;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001849;MAIONESE CHEDDAR CEPERA 12X190G;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001789;FILE DE PEITO BAND DALIA 18X700G;;;UN;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001253;MOLHO TRADICIONAL QUERO SC 24/340KG;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001260;MOSTARDA SACHET HEINZ CX 192X5G;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001845;AZEITONA RECHEADA C/PIMENTAO CEPERA VD 12X380G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001856;MOSTARDA SACHET QUERO 176X7G CX;;;CX;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001775;CEREJA EM CALDA CEPERA 24X80G;;;UN;00;;;20;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001725;RECHEIO FORNEAVEL AO LEITE HARALD 8X1.050KG;;;UN;00;;;18;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002365;MACAXEIRA DESCASCADA NORDESTE FRUIT 20X1KG;;;KG;00;;;07;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002402;SALSICHA MISTA COPACOL PT 4X3 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002113;CARVAO VEGETAL 5KG;;;PT;00;;;44;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001877;LING TOSCANA SEARA PT 700G;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002408;LING DE FRANGO GROSSA CONG COPACOL PT 12X800G;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002364;LING DE FRANGO FINA CONG COPACOL PT 12X800G;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001686;MOSTARDA CEPERA BD 4X3,3KG;;;UN;00;;;21;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002366;COXA BAND CONG DALIA 18X700G;;;UN;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002369;COXA S/COXA CONG IND DALIA CX C/16 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002429;FIGADO DE FGO  BAND DALIA CX 18X700G;;;UN;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002368;FILE DE PEITO BAND DALIA 18X700G;;;UN;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002430;FILE DE PEITO CONG DALIA CX C/16 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002431;MOELA DE FRANGO  BAND DALIA CX 18X700G;;;UN;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001405;QUEIJO PARMESAO RALADO FUGINI 25X40G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001406;QUEIJO PARMESAO EM TIRAS FUGINI 20X50G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001713;MILANESA PANKO SC TECNUTRI 10X800G;;;UN;00;;;19;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001720;AZEITONA VERDE INTEIRA FUGINI SC 24X150G;;;CX;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001758;REQUEIJAO TRADICIONAL FRIMESA 12X200G;;;UN;00;;;04;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001866;MOLHO STROGONOFF TECNUTRI  SC 10X500G;;;UN;00;;;21;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001867;BACON MANTA SAUDALI KG;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001869;LING DE FRANGO EVA CONG LAR PT 60X250G;;;PT;00;;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001872;FILE DA COSTELA PORCIONADO BONUTT(BIFE DE ANCHO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001873;CONTRA FILE PORCIONADO BONUTT(BIFE CHORIZO);;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001875;CONTRA FILE RESF BONUTT;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001876;PEITO BOVINO PORCIONADO  BOI BRASIL;;;KG;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001781;CHAMPIGNON FATIADO CEPERA SC 24X100G;;;UN;00;;;20;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001742;FILE DE PEITO CONG RARA CX C/20 KG;;;CX;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;000939;SALSICHA MISTA HOT DOG  PERDIGAO  PT 2,80 KG;;;PT;00;;;16;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001740;PICANHA SUINA TEMP SAUDALI;;;KG;00;;;02;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001960;LING CALAB TRAD FRIMESA PT 2 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002344;REQUEIJAO LIGHT FRIMESA 12X200G;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002337;REQUEIJAO TRADICIONAL FRIMESA 12X200G;;;UN;00;;;04;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001886;PEITO DE FRANGO CONG COPACOL  CX 17 KG;;;CX;00;;;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002456;SALSICHA MISTA RARA PT 4X5 KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002092;FILE DE PEITO CONG LAR CX 20KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002106;COPO DESCARTAVEL TRANSP 200ML COPOBRAS;;;UN;00;;;39;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002154;PRATO RASO DESC 21CM COPOBRAS PR021 50X10;;;CX;00;;;39;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002232;CHOCOLATE EM PO 50% CACAU TECNUTRI 10X1.010KG;;;UN;00;;;18;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002321;FILE DE PEITO CONG RARA CX C/20 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001681;CATCHUP SACHET CEPERA CX 175X7G;;;CX;00;;;21;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001683;MAIONESE SACHET CEPERA CX 175X7G;;;CX;00;;;21;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002470;COXA BAND CONG SEARA CX C/12KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002471;FILE DE PEITO BAND SEARA CX 12KG;;;KG;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002472;DUETO GOIAS VERDE/BONARE LT 6X1,7KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002474;ERVILHA GOIAS VERDE/BONARE LT 6X1,7KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002473;MILHO VERDE BONARE/GOIAS VERDE LT 6X1,7KG;;;UN;00;;;20;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;001755;MOLHO DE PIZZA BONARE 6X2KG;;;UN;00;;;21;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002333;CAPA DE FILE FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002475;CONTRA FILE PORCIONADO RESF FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002335;PEITO BOVINO FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002477;BANANINHA BOV  FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002476;LAGARTO BOV PORC FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002346;ACEM BOVINO PORCIONADO FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002320;OSSO DO PATINHO BOVINO FRIBEV;;;KG;00;;;05;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002478;CORACAO BOVINO FRIBEV;;;KG;00;;;02;;12;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002145;MOLHO SAKURA AJI-NO-SHOYO 12X1000ML;;;UN;00;;;21;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002479;CORACAO DE FGO BAND DALIA CX 18X700G;;;UN;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002330;SALSICHA MISTA RESFRIADA MANA 6X3KG;;;PT;00;;;16;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
+;0200;002465;PEITO DE FRANGO CONG COPACOL  CX 17 KG;;;CX;00;;;02;;7;;;;;;;;;;;;;;;;;;;;;;;;;;;3;242101229275790001055500100000274511000075066
